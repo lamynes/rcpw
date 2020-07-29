@@ -748,7 +748,7 @@ section.form .container {
   font-size: 30px;
 }
 #extSlider1-1j H2 {
-  font-size: 72px;
+  font-size: 80px;
   font-family: 'Oswald', sans-serif;
 }
 #header3-9 .mbr-section-title,
@@ -852,6 +852,9 @@ section.form .container {
 }
 #ext_menu-v .btn SPAN {
   font-size: 30px;
+}
+#ext_menu-v .btn {
+  font-size: 20px;
 }
 #contacts1-10 P {
   font-size: 18px;
@@ -988,6 +991,9 @@ section.form .container {
 #ext_menu-v .btn SPAN {
   font-size: 30px;
 }
+#ext_menu-v .btn {
+  font-size: 20px;
+}
 #contacts1-10 P {
   font-size: 18px;
   color: #c0a375;
@@ -1060,6 +1066,9 @@ section.form .container {
 }
 #ext_menu-1f .btn SPAN {
   font-size: 30px;
+}
+#ext_menu-1f .btn {
+  font-size: 20px;
 }
 #content1-1i P {
   font-size: 20px;

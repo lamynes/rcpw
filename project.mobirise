@@ -82,7 +82,7 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "Commercial &amp; Residential | Exterior, Roof Cleaning &amp; Surface Cleaning.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">(251) 508-6018</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SCHEDULE ONLINE</a>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">(251) 508-6018</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SCHEDULE ONLINE</a>",
                 "overlayOpacity": "0.2",
                 "alt": ""
               },
@@ -132,7 +132,7 @@
               "font-size": "30px"
             },
             "H2": {
-              "font-size": "72px",
+              "font-size": "80px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
@@ -310,7 +310,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "Why Choose Roush Home &amp; Roof Cleaning?",
+          "title": "WHY CHOOSE ROUSH COMMERCIAL POWER WASHING?",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -496,6 +496,9 @@
             },
             ".btn SPAN": {
               "font-size": "30px"
+            },
+            ".btn": {
+              "font-size": "20px"
             }
           },
           "logo": {
@@ -1022,6 +1025,9 @@
             },
             ".btn SPAN": {
               "font-size": "30px"
+            },
+            ".btn": {
+              "font-size": "20px"
             }
           },
           "logo": {
@@ -1191,6 +1197,9 @@
             },
             ".btn SPAN": {
               "font-size": "30px"
+            },
+            ".btn": {
+              "font-size": "20px"
             }
           },
           "logo": {
