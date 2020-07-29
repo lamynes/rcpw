@@ -71,7 +71,7 @@
             "timeout": "6",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/90438480-1332448276965644-2106986457200590848-n-720x960.jpg",
+                "image": "@PROJECT_PATH@/assets/images/adobestock-132998857-1024x683.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": true,
