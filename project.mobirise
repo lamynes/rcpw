@@ -104,13 +104,29 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/low-pressure-roof-washing-1-1330x858.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "title": "HIGHEST QUALITY",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "Pressure Washing and Soft Washing Services.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0",
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/1200px-nearctic-ecozone-southeastern-united-states.svg-1200x908.png",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "SERVING\n<div>THE SOUTHEASTERN UNITED STATES</div>",
                 "overlay": false,
                 "contentAlign": "right",
                 "text": "Pressure Washing and Soft Washing Services.",
@@ -134,38 +150,10 @@
             "H2": {
               "font-size": "80px",
               "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "color": "#000000"
             }
           }
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "font-size": "36px"
-            },
-            ".mbr-section-subtitle": {
-              "font-size": "30px"
-            },
-            ".mbr-section-title DIV": {
-              "font-size": "46px"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColor": "#fff"
-          },
-          "title": "<div>COMMERCIAL POWER WASHING COMPANY SERVING </div><div>THE SOUTHEASTERN UNITED STATES</div>",
-          "meta": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-9"
         },
         {
           "_params": {
@@ -186,30 +174,6 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-a"
-        },
-        {
-          "_params": {
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/1200px-nearctic-ecozone-southeastern-united-states.svg-1200x908.png",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-1l"
         },
         {
           "_params": {

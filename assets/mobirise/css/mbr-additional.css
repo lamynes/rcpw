@@ -751,19 +751,7 @@ section.form .container {
 #extSlider1-1j H2 {
   font-size: 80px;
   font-family: 'Oswald', sans-serif;
-}
-#header3-9 .mbr-section-title,
-#header3-9 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-9 .mbr-section-title {
-  font-size: 36px;
-}
-#header3-9 .mbr-section-subtitle {
-  font-size: 30px;
-}
-#header3-9 .mbr-section-title DIV {
-  font-size: 46px;
+  color: #000000;
 }
 #extFeatures7-1q P {
   text-align: center;
