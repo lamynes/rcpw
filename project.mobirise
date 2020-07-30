@@ -1074,6 +1074,9 @@
           "_styles": {
             "H2": {
               "color": "#c0a375"
+            },
+            "P": {
+              "font-size": "30px"
             }
           },
           "_customCSS": "h2 {\n  color: #c0a375;\n  text-shadow: 6px 6px 10px #000000;\n}"
@@ -1199,8 +1202,8 @@
             "P": {
               "text-align": "center",
               "font-size": "20px",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             "DIV": {
               "color": "#282828"

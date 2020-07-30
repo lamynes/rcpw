@@ -920,6 +920,9 @@ section.form .container {
 #slider-z H2 {
   color: #c0a375;
 }
+#slider-z P {
+  font-size: 30px;
+}
 #slider-z h2 {
   color: #c0a375;
   text-shadow: 6px 6px 10px #000000;
@@ -927,7 +930,7 @@ section.form .container {
 #content1-u P {
   text-align: center;
   font-size: 20px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 #content1-u DIV {
   color: #282828;
