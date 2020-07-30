@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Roush Commercial Power Washing",
-    "currentPage": "index.html",
+    "currentPage": "about_us.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -1473,10 +1473,10 @@
             "showTitle": true,
             "showText": false,
             "showButton": false,
-            "paddingTop": 3,
+            "paddingTop": "4",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/rrh-1416x1275.jpeg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -1486,7 +1486,7 @@
             },
             "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.3"
           },
           "title": "ABOUT ROUSH COMMERCIAL POWER WASHING<br>",
           "text": "<p>Article header with background image and parallax effect.</p>",
