@@ -695,13 +695,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#282828",
+            "bgColor": "#ffffff",
             "fontSize": "1.1",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#282828",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"roof-cleaning.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">RESIDENTIAL HOUSE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">COMMERCIAL PRESSURE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">CONCRETE CLEANING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">STAIN REMOVAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"roof-cleaning.html\">ROOF CLEANING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">APARTMENT PRESSURE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">VACUUM RECLAIM PRESSURE WASHING</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about_us.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>SCHEDULE ONLINE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"roof-cleaning.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">RESIDENTIAL HOUSE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">COMMERCIAL PRESSURE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">CONCRETE CLEANING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">STAIN REMOVAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"roof-cleaning.html\">ROOF CLEANING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">APARTMENT PRESSURE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">VACUUM RECLAIM PRESSURE WASHING</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about_us.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>SCHEDULE ONLINE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -713,13 +713,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#282828"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#282828"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#282828"
             },
             ".link": {
               "font-size": "1.1rem"
@@ -731,16 +731,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#282828",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -793,7 +793,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#282828",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -824,7 +824,7 @@
           "_styles": {
             "P": {
               "font-size": "18px",
-              "color": "#ffffff"
+              "color": "#282828"
             }
           }
         }
@@ -1201,13 +1201,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#282828",
+            "bgColor": "#ffffff",
             "fontSize": "1.1",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#282828",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"roof-cleaning.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">RESIDENTIAL HOUSE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">COMMERCIAL PRESSURE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">CONCRETE CLEANING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">STAIN REMOVAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"roof-cleaning.html\">ROOF CLEANING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">APARTMENT PRESSURE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">VACUUM RECLAIM PRESSURE WASHING</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about_us.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>SCHEDULE ONLINE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"roof-cleaning.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">RESIDENTIAL HOUSE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">COMMERCIAL PRESSURE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">CONCRETE CLEANING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">STAIN REMOVAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"roof-cleaning.html\">ROOF CLEANING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">APARTMENT PRESSURE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">VACUUM RECLAIM PRESSURE WASHING</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about_us.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>SCHEDULE ONLINE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1219,13 +1219,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#282828"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#282828"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#282828"
             },
             ".link": {
               "font-size": "1.1rem"
@@ -1237,16 +1237,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#282828",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1299,7 +1299,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#282828",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -1331,7 +1331,7 @@
           "_styles": {
             "P": {
               "font-size": "18px",
-              "color": "#ffffff"
+              "color": "#282828"
             }
           }
         }
@@ -1373,13 +1373,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#282828",
+            "bgColor": "#ffffff",
             "fontSize": "1.1",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#282828",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"roof-cleaning.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">RESIDENTIAL HOUSE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">COMMERCIAL PRESSURE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">CONCRETE CLEANING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">STAIN REMOVAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"roof-cleaning.html\">ROOF CLEANING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">APARTMENT PRESSURE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">VACUUM RECLAIM PRESSURE WASHING</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about_us.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>SCHEDULE ONLINE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"roof-cleaning.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">RESIDENTIAL HOUSE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">COMMERCIAL PRESSURE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">CONCRETE CLEANING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">STAIN REMOVAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"roof-cleaning.html\">ROOF CLEANING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">APARTMENT PRESSURE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">VACUUM RECLAIM PRESSURE WASHING</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about_us.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>SCHEDULE ONLINE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1391,13 +1391,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#282828"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#282828"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#282828"
             },
             ".link": {
               "font-size": "1.1rem"
@@ -1409,16 +1409,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#282828",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1529,7 +1529,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#282828",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -1560,7 +1560,7 @@
           "_styles": {
             "P": {
               "font-size": "18px",
-              "color": "#ffffff"
+              "color": "#282828"
             }
           },
           "_anchor": "contacts1-1g"
