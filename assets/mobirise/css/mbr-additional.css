@@ -761,15 +761,12 @@ section.form .container {
 #header3-9 .mbr-section-subtitle {
   font-size: 30px;
 }
-#features3-l .card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
 #header3-j .mbr-section-title,
 #header3-j .mbr-section-subtitle {
   text-align: center;
 }
 #content7-k .lead UL {
-  font-size: 20px;
+  font-size: 25px;
   font-family: 'Oswald', sans-serif;
 }
 #content7-k .lead {
