@@ -68,7 +68,7 @@
             "paddingBottom": 3,
             "showBullets": true,
             "bgColor": "#fff",
-            "timeout": "6",
+            "timeout": "7",
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/adobestock-132998857-1024x683.jpg",
