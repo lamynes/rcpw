@@ -605,8 +605,8 @@
         },
         {
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "bgColor": "#282828"
           },
           "text": "<p><b style=\"font-style: italic;\">Please call </b><a href=\"tel:(251) 508-6018\" style=\"font-style: italic; font-weight: bold;\">(251) 508-6018</a><b><i> or </i><i><a href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\"><b><i>schedule an appointment</i></b></a>. We welcome new customers.</i></b></p><p><b><i>Bookmark our website. Save our phone number for future service needs.</i></b><br></p><p><br></p><p>\n</p><p>\n</p><p>Local residential and commercial roof cleaning and property cleaning company serving customers in cities, towns, and suburbs in Southeastern United States</p>",
@@ -692,7 +692,7 @@
           "_inherit": "menu",
           "_params": {
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
@@ -783,7 +783,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Roush Home &amp; Roof</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RCPW</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-v"
         },
@@ -1172,8 +1172,8 @@
         },
         {
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "bgColor": "#282828"
           },
           "text": "<p><b style=\"font-style: italic;\">Please call </b><a href=\"tel:(251) 508-6018\" style=\"font-style: italic; font-weight: bold;\">(251) 508-6018</a><b><i> or </i><a href=\"index.html#form1-h\"><b><i>contact</i></b></a> <i>us today to <a href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\"><b><i>schedule an appointment</i></b></a>. We welcome new customers.</i></b></p><p><b><i>Bookmark our website. Save our phone number for future service needs.</i></b><br></p><p><br></p><p>\n</p><p>\n</p><p>Local residential and commercial roof cleaning and property cleaning company serving customers in cities, towns, and suburbs in the Southeastern United States</p>",
@@ -1198,7 +1198,7 @@
           "_inherit": "menu",
           "_params": {
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
@@ -1289,7 +1289,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Roush Home &amp; Roof</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RCPW</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-v"
         },
@@ -1370,7 +1370,7 @@
           "_inherit": "menu",
           "_params": {
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
@@ -1461,7 +1461,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Roush Home &amp; Roof</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RCPW</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-1f"
         },
