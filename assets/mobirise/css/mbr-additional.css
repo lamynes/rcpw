@@ -794,10 +794,11 @@ section.form .container {
   color: #ffffff;
 }
 #form1-h .form-control-label {
-  color: #232323;
+  color: #ffffff;
 }
 #form1-h .mbr-section-title {
   font-size: 36px;
+  color: #ffffff;
 }
 #ext_menu-v .hide-buttons .nav-btn {
   display: none !important;

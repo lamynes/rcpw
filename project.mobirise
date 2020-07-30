@@ -21,7 +21,8 @@
         "isRtl": false
       },
       "additionalSetColors": [
-        "#282828"
+        "#282828",
+        "#222222"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -630,17 +631,17 @@
           "_params": {
             "showTitle": true,
             "showSubTitle": false,
-            "labelsColor": "#232323",
+            "labelsColor": "#ffffff",
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/washing-sidewalk1.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#cccccc",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.6"
           },
           "title": "CONTACT ROUSH COMMERCIAL POWER WASHING",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
@@ -679,10 +680,11 @@
           "_anchor": "form1-h",
           "_styles": {
             ".form-control-label": {
-              "color": "#232323"
+              "color": "#ffffff"
             },
             ".mbr-section-title": {
-              "font-size": "36px"
+              "font-size": "36px",
+              "color": "#ffffff"
             }
           }
         },
@@ -767,9 +769,9 @@
             "image": {
               "src": "@PROJECT_PATH@/assets/images/untitled-52-212x128.png",
               "height": 128,
-              "alt": "Roush Home & Roof",
+              "alt": "Roush Commercial Power Washing",
               "link": "index.html",
-              "title": "Roush Home & Roof",
+              "title": "Roush Commercial Power Washing",
               "active": true
             },
             "iconFont": {
@@ -804,8 +806,8 @@
               "width": 128,
               "active": true,
               "link": "index.html",
-              "alt": "Roush Home & Roof",
-              "title": "Roush Home & Roof"
+              "alt": "Roush Commercial Power Washing",
+              "title": "Roush Commercial Power Washing"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -1273,9 +1275,9 @@
             "image": {
               "src": "@PROJECT_PATH@/assets/images/untitled-52-212x128.png",
               "height": 128,
-              "alt": "Roush Home & Roof",
+              "alt": "Roush Commercial Power Washing",
               "link": "index.html",
-              "title": "Roush Home & Roof",
+              "title": "Roush Commercial Power Washing",
               "active": true
             },
             "iconFont": {
@@ -1310,8 +1312,8 @@
               "width": 128,
               "active": true,
               "link": "index.html",
-              "alt": "Roush Home & Roof",
-              "title": "Roush Home & Roof",
+              "alt": "Roush Commercial Power Washing",
+              "title": "Roush Commercial Power Washing",
               "linkInNewWindow": false
             },
             "iconFont": {
@@ -1445,9 +1447,9 @@
             "image": {
               "src": "@PROJECT_PATH@/assets/images/untitled-52-212x128.png",
               "height": 128,
-              "alt": "Roush Home & Roof",
+              "alt": "Roush Commercial Power Washing",
               "link": "index.html",
-              "title": "Roush Home & Roof",
+              "title": "Roush Commercial Power Washing",
               "active": true
             },
             "iconFont": {
@@ -1540,8 +1542,8 @@
               "width": 128,
               "active": true,
               "link": "index.html",
-              "alt": "Roush Home & Roof",
-              "title": "Roush Home & Roof",
+              "alt": "Roush Commercial Power Washing",
+              "title": "Roush Commercial Power Washing",
               "linkInNewWindow": false
             },
             "iconFont": {
