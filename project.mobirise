@@ -156,7 +156,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "title": "<div>Commercial Exterior Power Washing Company Serving the Mobile &amp; Baldwin County, Alabama Areas</div>",
+          "title": "<div>Commercial Exterior Power Washing Company Serving the Southeastern United States</div>",
           "meta": "",
           "_tags": [
             "Theme"
@@ -349,7 +349,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "text": "<p><b style=\"font-style: italic;\">Please call </b><a href=\"tel:(251) 508-6018\" style=\"font-style: italic; font-weight: bold;\">(251) 508-6018</a><b><i> or </i><i><a href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\"><b><i>schedule an appointment</i></b></a>. We welcome new customers.</i></b></p><p><b><i>Bookmark our website. Save our phone number for future service needs.</i></b><br></p><p><br></p><p>\n</p><p>\n</p><p>Local residential and commercial roof cleaning and property cleaning company serving customers in cities, towns, and suburbs in Baldwin and Mobile County, Alabama including Prichard, Mobile, Saraland, Daphne, and Fairhope.</p>",
+          "text": "<p><b style=\"font-style: italic;\">Please call </b><a href=\"tel:(251) 508-6018\" style=\"font-style: italic; font-weight: bold;\">(251) 508-6018</a><b><i> or </i><i><a href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\"><b><i>schedule an appointment</i></b></a>. We welcome new customers.</i></b></p><p><b><i>Bookmark our website. Save our phone number for future service needs.</i></b><br></p><p><br></p><p>\n</p><p>\n</p><p>Local residential and commercial roof cleaning and property cleaning company serving customers in cities, towns, and suburbs in Southeastern United States</p>",
           "_tags": [
             "Theme"
           ],
@@ -503,7 +503,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/roush-home-and-roof-logo-sm-201x128.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-52-212x128.png",
               "height": 128,
               "alt": "Roush Home & Roof",
               "link": "index.html",
@@ -538,13 +538,12 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/roush-home-and-roof-logo-sm-201x128.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-52-128x77.png",
               "width": 128,
               "active": true,
               "link": "index.html",
               "alt": "Roush Home & Roof",
-              "title": "Roush Home & Roof",
-              "linkInNewWindow": false
+              "title": "Roush Home & Roof"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -1032,7 +1031,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/roush-home-and-roof-logo-sm-201x128.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-52-212x128.png",
               "height": 128,
               "alt": "Roush Home & Roof",
               "link": "index.html",
@@ -1067,7 +1066,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/roush-home-and-roof-logo-sm-201x128.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-52-128x77.png",
               "width": 128,
               "active": true,
               "link": "index.html",
@@ -1204,7 +1203,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/roush-home-and-roof-logo-sm-201x128.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-52-212x128.png",
               "height": 128,
               "alt": "Roush Home & Roof",
               "link": "index.html",
@@ -1263,7 +1262,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/roush-home-and-roof-logo-sm-201x128.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-52-128x77.png",
               "width": 128,
               "active": true,
               "link": "index.html",
