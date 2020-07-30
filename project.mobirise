@@ -73,7 +73,7 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/adobestock-132998857-1024x683.jpg",
                 "active": true,
-                "showButtons": true,
+                "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
