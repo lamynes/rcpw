@@ -140,26 +140,6 @@
           }
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "title": "OUR SERVICES INCLUDE",
-          "meta": "By John Roush",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1r"
-        },
-        {
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
@@ -261,7 +241,7 @@
               "active": true
             }
           },
-          "title": "<h2><b>COMMERCIAL AND RESIDENTIAL POWER WASHING</b></h2>",
+          "title": "<h2><b>OUR SERVICES INCLUDE</b></h2>",
           "subtitle": "Mon - Sat:  8:00 am - 5:00 pm<br>Sunday: Closed",
           "title1": "Full-Service Exterior Power Wash and Surface Cleaning",
           "subtitle1": "Bootstrap 4 has been noted",
@@ -562,11 +542,14 @@
               "font-size": "25px"
             },
             ".mbr-section-title H2": {
-              "font-size": "30px"
+              "font-size": "36px"
             },
             ".mbr-section-subtitle": {
               "font-size": "30px",
               "color": "#282828"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
             }
           },
           "_anchor": "extFeatures7-1q"
@@ -577,7 +560,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "font-size": "46px"
+              "font-size": "36px"
             }
           },
           "_params": {
@@ -633,7 +616,7 @@
           "_styles": {
             "P": {
               "text-align": "center",
-              "font-size": "20px",
+              "font-size": "30px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
@@ -697,6 +680,9 @@
           "_styles": {
             ".form-control-label": {
               "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
             }
           }
         },
