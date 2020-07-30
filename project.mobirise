@@ -42,11 +42,11 @@
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "PWA": {
       "enabled": true,
-      "name": "",
+      "name": "Roush Commercial Power Washing",
       "icon": "@PROJECT_PATH@/assets/images/untitled-3-512x512.png",
       "themeColor": "#c0a375"
     },
-    "imageResize": false,
+    "imageResize": true,
     "cookiesAlert": false,
     "gdpr": false
   },
@@ -187,7 +187,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/fence-powerwashing-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/74981145-1412818752261929-4275810210652952582-n-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -198,7 +198,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/82056664-466396060706544-5721191614194384896-n-576x432.jpg",
+              "src": "@PROJECT_PATH@/assets/images/70455254-1169896893220784-4422290600762540032-n-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -209,7 +209,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/82782544-784437835299086-1138245266348965888-n-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/70618426-1164761767067630-3566578131504463872-n-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
