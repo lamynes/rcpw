@@ -1,7 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 
 
 
@@ -755,7 +754,7 @@ section.form .container {
 }
 #extFeatures7-1q P {
   text-align: center;
-  font-size: 22px;
+  font-size: 20px;
   color: #000000;
   font-family: 'Oswald', sans-serif;
 }
@@ -780,7 +779,7 @@ section.form .container {
   font-size: 36px;
 }
 #content7-k .lead UL {
-  font-size: 25px;
+  font-size: 20px;
   font-family: 'Oswald', sans-serif;
 }
 #content7-k .lead {
@@ -788,7 +787,7 @@ section.form .container {
 }
 #content1-w P {
   text-align: center;
-  font-size: 30px;
+  font-size: 20px;
   font-family: 'Oswald', sans-serif;
 }
 #content1-w DIV {
@@ -879,34 +878,21 @@ section.form .container {
 
 
 
-
 #msg-box8-o .mbr-section-title,
 #msg-box8-o .lead {
   color: #fff;
 }
 #msg-box8-o .mbr-section-title {
-  font-size: 60px;
-  color: #c0a375;
+  font-size: 48px;
+  color: #ffffff;
 }
 #msg-box8-o .mbr-section-title SPAN {
   font-family: 'Roboto', sans-serif;
   font-size: 48px;
 }
-#msg-box8-o h3 {
-  color: #c0a375;
-  text-shadow: 6px 6px 10px #000000;
-}
-#header3-p .mbr-section-title,
-#header3-p .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-p .mbr-section-title {
-  font-family: 'Roboto', sans-serif;
-  font-size: 36px;
-}
 #content1-q P {
   text-align: center;
-  font-size: 25px;
+  font-size: 20px;
   font-family: 'Oswald', sans-serif;
 }
 #content1-q DIV {
@@ -924,14 +910,10 @@ section.form .container {
   font-size: 20px;
 }
 #slider-z H2 {
-  color: #c0a375;
+  color: #ffffff;
 }
 #slider-z P {
   font-size: 30px;
-}
-#slider-z h2 {
-  color: #c0a375;
-  text-shadow: 6px 6px 10px #000000;
 }
 #content1-u P {
   text-align: center;
@@ -1087,9 +1069,13 @@ section.form .container {
 #ext_menu-1f .btn {
   font-size: 20px;
 }
+#msg-box8-1s .mbr-section-title,
+#msg-box8-1s .lead {
+  color: #fff;
+}
 #content1-1i P {
   font-size: 20px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Oswald', sans-serif;
   text-align: left;
 }
 #content1-1i DIV {

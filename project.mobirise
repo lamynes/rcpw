@@ -27,7 +27,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.11.4",
     "siteFonts": [],
-    "uniqCompNum": 64,
+    "uniqCompNum": 65,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -533,7 +533,7 @@
           "_styles": {
             "P": {
               "text-align": "center",
-              "font-size": "22px",
+              "font-size": "20px",
               "color": "#000000",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
@@ -593,7 +593,7 @@
           "_anchor": "content7-k",
           "_styles": {
             ".lead UL": {
-              "font-size": "25px",
+              "font-size": "20px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
@@ -616,7 +616,7 @@
           "_styles": {
             "P": {
               "text-align": "center",
-              "font-size": "30px",
+              "font-size": "20px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
@@ -863,8 +863,8 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "font-size": "60px",
-              "color": "#c0a375"
+              "font-size": "48px",
+              "color": "#ffffff"
             },
             ".mbr-section-title SPAN": {
               "font-family": "'Roboto', sans-serif",
@@ -875,7 +875,7 @@
           "_params": {
             "showTitle": true,
             "showText": false,
-            "showButton": true,
+            "showButton": false,
             "paddingTop": "4",
             "paddingBottom": "2",
             "bgImageRadio": true,
@@ -891,7 +891,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.5"
           },
-          "title": "EXTERIOR ROOF CLEANING",
+          "title": "RESIDENTAIL &amp; COMMERCIAL | ROOF CLEANING",
           "text": "We specialize",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.facebook.com/roushhomecleaning/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>SCHEDULE ONLINE</a>",
           "_tags": [
@@ -899,32 +899,7 @@
           ],
           "_name": "msg-box8",
           "_anchor": "msg-box8-o",
-          "_customCSS": "h3 {\n  color: #c0a375;\n  text-shadow: 6px 6px 10px #000000;\n}"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-size": "36px"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "Residential &amp; Commercial | Exterior Roof Cleaning",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-p"
+          "_customCSS": ""
         },
         {
           "_params": {
@@ -941,7 +916,7 @@
           "_styles": {
             "P": {
               "text-align": "center",
-              "font-size": "25px",
+              "font-size": "20px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
@@ -965,7 +940,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "Our Services Include",
+          "title": "OUR SERVICES INCLUDE",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -1007,7 +982,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/82932972-467341527268324-5633989608988475392-n-1-960x720.jpeg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -1018,7 +993,7 @@
                 "contentAlign": "right",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0",
+                "overlayOpacity": "0.1",
                 "alt": ""
               },
               {
@@ -1055,7 +1030,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/sidingafterphoto1-mobilecountyal-roushhomeroofcleaning-1-640x716.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -1079,13 +1054,13 @@
           "_anchor": "slider-z",
           "_styles": {
             "H2": {
-              "color": "#c0a375"
+              "color": "#ffffff"
             },
             "P": {
               "font-size": "30px"
             }
           },
-          "_customCSS": "h2 {\n  color: #c0a375;\n  text-shadow: 6px 6px 10px #000000;\n}"
+          "_customCSS": ""
         },
         {
           "_params": {
@@ -1199,7 +1174,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "text": "<p><b style=\"font-style: italic;\">Please call </b><a href=\"tel:(251) 508-6018\" style=\"font-style: italic; font-weight: bold;\">(251) 508-6018</a><b><i> or </i><a href=\"index.html#form1-h\"><b><i>contact</i></b></a> <i>us today to <a href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\"><b><i>schedule an appointment</i></b></a>. We welcome new customers.</i></b></p><p><b><i>Bookmark our website. Save our phone number for future service needs.</i></b><br></p><p><br></p><p>\n</p><p>\n</p><p>Local residential and commercial roof cleaning and property cleaning company serving customers in cities, towns, and suburbs in Baldwin and Mobile County, Alabama including Prichard, Mobile, Saraland, Daphne, and Fairhope.</p>",
+          "text": "<p><b style=\"font-style: italic;\">Please call </b><a href=\"tel:(251) 508-6018\" style=\"font-style: italic; font-weight: bold;\">(251) 508-6018</a><b><i> or </i><a href=\"index.html#form1-h\"><b><i>contact</i></b></a> <i>us today to <a href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\"><b><i>schedule an appointment</i></b></a>. We welcome new customers.</i></b></p><p><b><i>Bookmark our website. Save our phone number for future service needs.</i></b><br></p><p><br></p><p>\n</p><p>\n</p><p>Local residential and commercial roof cleaning and property cleaning company serving customers in cities, towns, and suburbs in the Southeastern United States</p>",
           "_tags": [
             "Theme"
           ],
@@ -1489,8 +1464,42 @@
           "_anchor": "ext_menu-1f"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            }
+          },
           "_params": {
-            "paddingTop": "6",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ABOUT ROUSH COMMERCIAL POWER WASHING<br>",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1s"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
@@ -1502,8 +1511,8 @@
           "_styles": {
             "P": {
               "font-size": "20px",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "text-align": "left"
             },
             "DIV": {
