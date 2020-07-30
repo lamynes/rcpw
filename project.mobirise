@@ -27,7 +27,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.11.4",
     "siteFonts": [],
-    "uniqCompNum": 63,
+    "uniqCompNum": 64,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -140,6 +140,26 @@
           }
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "title": "OUR SERVICES INCLUDE",
+          "meta": "By John Roush",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1r"
+        },
+        {
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
@@ -161,14 +181,14 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showSubtitle": false,
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
             "showIcons": false,
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "1",
             "columns": "3",
             "bgImageRadio": false,
@@ -533,10 +553,10 @@
           "_styles": {
             "P": {
               "text-align": "center",
-              "font-size": "20px",
+              "font-size": "22px",
               "color": "#000000",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             "H4": {
               "font-size": "25px"
@@ -545,7 +565,7 @@
               "font-size": "46px"
             },
             ".mbr-section-subtitle": {
-              "font-size": "20px",
+              "font-size": "30px",
               "color": "#282828"
             }
           },
