@@ -97,36 +97,20 @@
                 "title": "EXPERIENCE",
                 "overlay": false,
                 "contentAlign": "right",
-                "text": "Serving Commercial and Residential Customers in Mobile &amp; Baldwin County, Alabama Areas",
+                "text": "Serving Commercial and Residential Customers in the Southeastern United States",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.2",
                 "alt": ""
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/low-pressure-roof-washing-1-1330x858.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "HIGHEST QUALITY",
-                "overlay": false,
-                "contentAlign": "right",
-                "text": "Pressure Washing and Soft Washing Services.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0",
-                "alt": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/1200px-nearctic-ecozone-southeastern-united-states.svg-1200x908.png",
                 "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "SERVING\n<div>THE SOUTHEASTERN UNITED STATES</div>",
+                "title": "HIGHEST QUALITY",
                 "overlay": false,
                 "contentAlign": "right",
                 "text": "Pressure Washing and Soft Washing Services.",
@@ -151,7 +135,7 @@
               "font-size": "80px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "color": "#000000"
+              "color": "#ffffff"
             }
           }
         },
@@ -257,7 +241,7 @@
               "active": true
             }
           },
-          "title": "<h2><b>OUR SERVICES</b></h2>",
+          "title": "<h2><b>OUR SERVICES INCLUDE</b></h2>",
           "subtitle": "Mon - Sat:  8:00 am - 5:00 pm<br>Sunday: Closed",
           "title1": "Full-Service Exterior Power Wash and Surface Cleaning",
           "subtitle1": "Bootstrap 4 has been noted",
