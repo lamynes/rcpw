@@ -148,6 +148,9 @@
             },
             ".mbr-section-subtitle": {
               "font-size": "30px"
+            },
+            ".mbr-section-title DIV": {
+              "font-size": "46px"
             }
           },
           "_params": {
@@ -604,6 +607,9 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "46px"
             }
           },
           "_params": {
