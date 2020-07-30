@@ -177,7 +177,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020 Roush Home &amp; Roof.",
+          "text": "Copyright (c) 2020 ROUSH COMMERCIAL POWER WASHING.",
           "_tags": [
             "Theme"
           ],
@@ -551,9 +551,9 @@
               "size": 0
             }
           },
-          "text1": "<i>BUSINESS HOURS</i><br>Mon - Sat: &nbsp;8:00 am - 5:00 pm\n<br>Sunday: Closed<br>",
-          "text2": "<i>CONTACTS</i><br>Phone: <a href=\"tel:(251) 508-6018\" class=\"text-primary\">(251) 508-6018&nbsp;</a><br>",
-          "text3": "<i>LINKS</i><br>\n<a class=\"text-primary\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\">SCHEDULE ONLINE</a><br>",
+          "text1": "BUSINESS HOURS<br>Mon - Sat: &nbsp;8:00 am - 5:00 pm\n<br>Sunday: Closed<br>",
+          "text2": "CONTACTS<br>Phone: <a href=\"tel:(251) 508-6018\" class=\"text-primary\">(251) 508-6018&nbsp;</a><br>",
+          "text3": "LINKS<br>\n<a class=\"text-primary\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\">SCHEDULE ONLINE</a><br>",
           "_tags": [
             "Theme"
           ],
@@ -588,7 +588,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020 Roush Home &amp; Roof.",
+          "text": "Copyright (c) 2020 ROUSH COMMERCIAL POWER WASHING.",
           "_tags": [
             "Theme"
           ],
@@ -1080,9 +1080,9 @@
               "size": 0
             }
           },
-          "text1": "<i>BUSINESS HOURS</i><br>Mon - Sat: &nbsp;8:00 am - 5:00 pm\n<br>Sunday: Closed<br>",
-          "text2": "<i>CONTACTS</i><br>Phone: <a href=\"tel:(251) 508-6018\" class=\"text-primary\">(251) 508-6018&nbsp;</a><br>",
-          "text3": "<i>LINKS</i><br>\n<a class=\"text-primary\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\">SCHEDULE ONLINE</a><br>",
+          "text1": "BUSINESS HOURS<br>Mon - Sat: &nbsp;8:00 am - 5:00 pm\n<br>Sunday: Closed<br>",
+          "text2": "CONTACTS<br>Phone: <a href=\"tel:(251) 508-6018\" class=\"text-primary\">(251) 508-6018&nbsp;</a><br>",
+          "text3": "LINKS<br>\n<a class=\"text-primary\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\">SCHEDULE ONLINE</a><br>",
           "_tags": [
             "Theme"
           ],
@@ -1091,7 +1091,7 @@
           "_styles": {
             "P": {
               "font-size": "18px",
-              "color": "#c0a375"
+              "color": "#ffffff"
             }
           }
         }
@@ -1117,7 +1117,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020 Roush Home &amp; Roof.",
+          "text": "Copyright (c) 2020 ROUSH COMMERCIAL POWER WASHING.",
           "_tags": [
             "Theme"
           ],
@@ -1276,9 +1276,9 @@
               "size": 0
             }
           },
-          "text1": "<i>BUSINESS HOURS</i><br>Mon - Sat: &nbsp;8:00 am - 5:00 pm\n<br>Sunday: Closed<br>",
-          "text2": "<i>CONTACTS</i><br>Phone: <a href=\"tel:(251) 508-6018\" class=\"text-primary\">(251) 508-6018&nbsp;</a><br>",
-          "text3": "<i>LINKS</i><br>\n<a class=\"text-primary\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\">SCHEDULE ONLINE</a><br>",
+          "text1": "BUSINESS HOURS<br>Mon - Sat: &nbsp;8:00 am - 5:00 pm\n<br>Sunday: Closed<br>",
+          "text2": "CONTACTS<br>Phone: <a href=\"tel:(251) 508-6018\" class=\"text-primary\">(251) 508-6018&nbsp;</a><br>",
+          "text3": "LINKS<br>\n<a class=\"text-primary\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\">SCHEDULE ONLINE</a><br>",
           "_tags": [
             "Theme"
           ],
@@ -1286,7 +1286,7 @@
           "_styles": {
             "P": {
               "font-size": "18px",
-              "color": "#c0a375"
+              "color": "#ffffff"
             }
           },
           "_anchor": "contacts1-1g"
