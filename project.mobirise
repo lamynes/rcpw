@@ -40,12 +40,12 @@
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-126685359-2\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-126685359-2');\n</script>\n",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "PWA": {
-      "enabled": false,
+      "enabled": true,
       "name": "",
-      "icon": "@PROJECT_PATH@/assets/images/roush-home-and-roof-logo-sm-512x512.png",
+      "icon": "@PROJECT_PATH@/assets/images/untitled-3-512x512.png",
       "themeColor": "#c0a375"
     },
-    "imageResize": true,
+    "imageResize": false,
     "cookiesAlert": false,
     "gdpr": false
   },
@@ -72,7 +72,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/adobestock-132998857-1024x683.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -87,8 +87,8 @@
                 "alt": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/8fe32d55-ade1-4ff1-a391-347fd3abc826-1430x1260.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/83198844-1294305004113305-4725395080020492288-n-2.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
