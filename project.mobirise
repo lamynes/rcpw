@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Roush Commercial Power Washing",
-    "currentPage": "index.html",
+    "currentPage": "roof-cleaning.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -606,7 +606,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColor": "#fff"
+            "bgColor": "#282828"
           },
           "text": "<p><b style=\"font-style: italic;\">Please call </b><a href=\"tel:(251) 508-6018\" style=\"font-style: italic; font-weight: bold;\">(251) 508-6018</a><b><i> or </i><i><a href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\"><b><i>schedule an appointment</i></b></a>. We welcome new customers.</i></b></p><p><b><i>Bookmark our website. Save our phone number for future service needs.</i></b><br></p><p><br></p><p>\n</p><p>\n</p><p>Local residential and commercial roof cleaning and property cleaning company serving customers in cities, towns, and suburbs in Southeastern United States</p>",
           "_tags": [
@@ -621,7 +621,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             "DIV": {
-              "color": "#282828"
+              "color": "#ffffff"
             }
           },
           "_anchor": "content1-w"
@@ -637,12 +637,12 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#cccccc",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "CONTACT",
+          "title": "CONTACT ROUSH COMMERCIAL POWER WASHING",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
           "form": {
@@ -891,7 +891,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.5"
           },
-          "title": "RESIDENTIAL &amp; COMMERCIAL | ROOF CLEANING",
+          "title": "RESIDENTIAL &amp; COMMERCIAL ROOF CLEANING",
           "text": "We specialize",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.facebook.com/roushhomecleaning/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>SCHEDULE ONLINE</a>",
           "_tags": [
@@ -1170,9 +1170,9 @@
         },
         {
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColor": "#fff"
+            "bgColor": "#282828"
           },
           "text": "<p><b style=\"font-style: italic;\">Please call </b><a href=\"tel:(251) 508-6018\" style=\"font-style: italic; font-weight: bold;\">(251) 508-6018</a><b><i> or </i><a href=\"index.html#form1-h\"><b><i>contact</i></b></a> <i>us today to <a href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\"><b><i>schedule an appointment</i></b></a>. We welcome new customers.</i></b></p><p><b><i>Bookmark our website. Save our phone number for future service needs.</i></b><br></p><p><br></p><p>\n</p><p>\n</p><p>Local residential and commercial roof cleaning and property cleaning company serving customers in cities, towns, and suburbs in the Southeastern United States</p>",
           "_tags": [
@@ -1187,7 +1187,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             "DIV": {
-              "color": "#282828"
+              "color": "#ffffff"
             }
           },
           "_anchor": "content1-u"
