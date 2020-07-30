@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Roush Commercial Power Washing",
-    "currentPage": "roof-cleaning.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -72,8 +72,8 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/adobestock-132998857-1024x683.jpg",
-                "active": false,
-                "showButtons": false,
+                "active": true,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
@@ -104,7 +104,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/low-pressure-roof-washing-1-1330x858.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
