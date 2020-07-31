@@ -635,13 +635,13 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/washing-sidewalk1.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/94247165-1357501734460298-782637414647595008-n-960x720.jpg",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#cccccc",
+            "bgColor": "#282828",
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.6"
+            "overlayOpacity": "0.3"
           },
           "title": "CONTACT ROUSH COMMERCIAL POWER WASHING",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
