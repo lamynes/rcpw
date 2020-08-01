@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Roush Commercial Power Washing",
-    "currentPage": "index.html",
+    "currentPage": "roof-cleaning.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -58,8 +58,7 @@
         "meta_descr": "Commercial & Residential | Roof Cleaning | Surface Cleaning Power Washing Company Serving the Southeastern United States",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/8fe32d55-ade1-4ff1-a391-347fd3abc826%20(1)%20(2)-1430x1260.jpeg"
+        "html_before": ""
       },
       "components": [
         {
