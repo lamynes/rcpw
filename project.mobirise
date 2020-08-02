@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Roush Commercial Power Washing",
-    "currentPage": "roof-cleaning.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -73,7 +73,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/adobestock-132998857-1024x683.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -89,7 +89,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/83198844-1294305004113305-4725395080020492288-n-2.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -187,7 +187,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/74981145-1412818752261929-4275810210652952582-n-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/74981145-1412818752261929-4275810210652952582-n-1-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -198,7 +198,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/70455254-1169896893220784-4422290600762540032-n-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/70455254-1169896893220784-4422290600762540032-n-2-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -209,7 +209,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/70618426-1164761767067630-3566578131504463872-n-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/70618426-1164761767067630-3566578131504463872-n-4-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
