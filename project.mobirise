@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Roush Commercial Power Washing",
-    "currentPage": "stains_removal.html",
+    "currentPage": "about_us.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -28,7 +28,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.11.4",
     "siteFonts": [],
-    "uniqCompNum": 106,
+    "uniqCompNum": 110,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -586,7 +586,7 @@
           },
           "text1": "<ul><li>Family Owned and Operated\n</li><li>Christian Based Business</li></ul>",
           "text2": "<ul><li>Over 20 Years of Experience\n</li><li>Licensed, Bonded, Insured\n</li></ul>",
-          "text3": "<ul><li>Veteran and Senior Citizen Discount\n</li><li>Free estimates</li></ul>",
+          "text3": "<ul><li>Veteran and Senior Citizen Discount</li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -604,28 +604,27 @@
           }
         },
         {
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgColor": "#282828"
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
           },
-          "text": "<p><b style=\"font-style: italic;\">Please call </b><a href=\"tel:(251) 508-6018\" style=\"font-style: italic; font-weight: bold;\">(251) 508-6018</a><b><i> or </i><i><a href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\"><b><i>schedule an appointment</i></b></a>. We welcome new customers.</i></b></p><p><b><i>Bookmark our website. Save our phone number for future service needs.</i></b><br></p><p><br></p><p>\n</p><p>\n</p><p>Local residential and commercial roof cleaning and property cleaning company serving customers in cities, towns, and suburbs in Southeastern United States</p>",
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "<p>FREE ESTIMATES</p>",
+          "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center",
-              "font-size": "20px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            "DIV": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "content1-w"
+          "_name": "header3",
+          "_anchor": "header3-30"
         },
         {
           "_params": {
@@ -878,8 +877,8 @@
             "showTitle": true,
             "showText": false,
             "showButton": false,
-            "paddingTop": "4",
-            "paddingBottom": "2",
+            "paddingTop": "5",
+            "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/low-pressure-roof-washing-1330x858.jpg",
             "parallax": true,
@@ -893,7 +892,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.5"
           },
-          "title": "RESIDENTIAL &amp; COMMERCIAL ROOF CLEANING",
+          "title": "ROOF CLEANING",
           "text": "We specialize",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.facebook.com/roushhomecleaning/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>SCHEDULE ONLINE</a>",
           "_tags": [
@@ -909,7 +908,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Our exterior roof cleaning, chemical wash process is bio-degradable, plus lowers the energy bill by on average 11%.</p><p>\n</p><p>We make the exterior of your house or commercial property look like new plus add life to your roof. If you are looking for high-quality, reliable, and personal service, you’ve found the right company.</p>",
+          "text": "<h2>Our Method Of Roof Cleaning Is Superior In Many Ways.</h2><p>Our exterior roof cleaning, chemical wash process is bio-degradable, plus lowers the energy bill by on average 11%.</p><p><br></p><p>\n</p><p>This is a method where we rely on the use of specialty cleaning chemicals and very low pressure to safely and effectively clean your roof.&nbsp;<br></p><p>\n</p><p>Our experience and equipment allows us to use just the right amount of detergents, reducing the overall chemical usage for the job.  This method is safer for the environment and your landscaping.  By carefully saturating all adjacent vegetation before, during and after the cleaning process, any chemical run off is diluted to safe levels.  We typically cover any shrubs, ornamental trees, roses or other delicate plants with plastic sheeting to ensure they are not affected by our process.</p><p><br></p><h2>The “Dark-Streaks” On Your Roof Are Actually Algae, Mold And Fungus Colonies That Have Grown And Spread Downward.\n</h2><p><br></p><p>The main bacteria causing these “black-streaks” on roofs is called Gloeocapsa Magma, this bacteria as well as other bacteria, algae, molds, fungus and lichen are one of the main causes of roofing material breakdown and decomposition. The lichen has a filament root system that will grow down into an asphalt shingle to feed and ultimately pull the aggregate granule layer off exposing the asphalt layer therefore starting a rapid deterioration.</p>",
           "_tags": [
             "Theme"
           ],
@@ -917,7 +916,7 @@
           "_anchor": "content1-q",
           "_styles": {
             "P": {
-              "text-align": "center",
+              "text-align": "left",
               "font-size": "20px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
@@ -926,29 +925,6 @@
               "color": "#000000"
             }
           }
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "font-size": "36px"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "OUR SERVICES INCLUDE",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-s"
         },
         {
           "_params": {
@@ -1066,6 +1042,24 @@
         },
         {
           "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>We make the exterior of your house or commercial property look like new plus add life to your roof. If you are looking for high-quality, reliable, and personal service, you’ve found the right company.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2y",
+          "_styles": {
+            "P": {
+              "font-size": "20px"
+            }
+          }
+        },
+        {
+          "_params": {
             "showImages": true,
             "showTitles": false,
             "showSubtitles": false,
@@ -1171,30 +1165,6 @@
           "_customTemplate": true
         },
         {
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgColor": "#282828"
-          },
-          "text": "<p><b style=\"font-style: italic;\">Please call </b><a href=\"tel:(251) 508-6018\" style=\"font-style: italic; font-weight: bold;\">(251) 508-6018</a><b><i> or </i><a href=\"index.html#form1-h\"><b><i>contact</i></b></a> <i>us today to <a href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\"><b><i>schedule an appointment</i></b></a>. We welcome new customers.</i></b></p><p><b><i>Bookmark our website. Save our phone number for future service needs.</i></b><br></p><p><br></p><p>\n</p><p>\n</p><p>Local residential and commercial roof cleaning and property cleaning company serving customers in cities, towns, and suburbs in the Southeastern United States</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center",
-              "font-size": "20px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            "DIV": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "content1-u"
-        },
-        {
           "_inherit": "menu",
           "_params": {
             "logo": true,
@@ -1292,6 +1262,29 @@
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RCPW</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-v"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "<p>FREE ESTIMATES</p>",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2z"
         },
         {
           "_params": {
@@ -1522,6 +1515,29 @@
             }
           },
           "_anchor": "content1-1i"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "<p>FREE ESTIMATES</p>",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-31"
         },
         {
           "_params": {
@@ -1852,7 +1868,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<h1><b>Make The Right Impression</b></h1><p>Would you walk into an important business meeting with badly stained shirt or blouse? Certainly not, as we all know how difficult it can be to overcome a negative first impression. Since your sidewalks and storefront are the first things your customers see when they step onto your property, its cleanliness has the opportunity to make a great first impression.</p><p><br></p><p>\n</p><p>\n</p><p>Roush Commercial Pressure Washing service, helps you keep your property looking clean and inviting by going the extra mile. To ensure that your customers notice the cleanliness of your property, we offer cleaning services safe for all widely used construction materials. These materials include EFIS (DRY-VIT or synthetic stucco), brick, Hardie products, wood, stucco, metal siding and more.</p>",
+          "text": "<h2><b>Make The Right Impression</b></h2><p>Would you walk into an important business meeting with badly stained shirt or blouse? Certainly not, as we all know how difficult it can be to overcome a negative first impression. Since your sidewalks and storefront are the first things your customers see when they step onto your property, its cleanliness has the opportunity to make a great first impression.</p><p><br></p><p>\n</p><p>\n</p><p>Roush Commercial Pressure Washing service, helps you keep your property looking clean and inviting by going the extra mile. To ensure that your customers notice the cleanliness of your property, we offer cleaning services safe for all widely used construction materials. These materials include EFIS (DRY-VIT or synthetic stucco), brick, Hardie products, wood, stucco, metal siding and more.</p>",
           "_tags": [
             "Theme"
           ],
@@ -1870,7 +1886,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<h1>Avoid Safety Hazards</h1><p>Dirty concrete is not only unsightly… it’s also a safety hazard. When slippery dirt, grime and mildew form on your property’s outdoor surfaces, you put your customers and employees at risk of falling when entering and exiting your building.</p><p><br></p><p>\n</p><p>\n</p><p>Since private businesses are faced with nearly 3 million workplace injuries every year, managers and business owners across the country are looking for ways to improve the safety of their commercial properties. Roush Commercial Pressure Washing helps you to create a cleaner, safer business environment by removing buildup from dumpster pads, parking lots, sidewalks, drive-thru’s, entry ways, grease trap areas and more with our expert commercial pressure washing services.</p><p><br></p><p>\n</p><p>\n</p><h1>Clean With Convenience</h1><p>If you maintain a commercial property of any kind, you already know that widespread cleaning processes are especially challenging to undertake when customers and tenants are present. At Roush Commercial Pressure Washing, we understand this challenge. We know that it can be difficult to strike the right balance between scheduling regular property cleanings and avoiding disruptions for both employees and customers. That’s why we are happy to provide our commercial pressure washing services for your property during non-business hours.</p><p><br></p><p>\n</p><p>\n</p><p>Drastically improving your property’s image does not have to interfere with your daily business routine. We have the experience and equipment to make your commercial property stand out from the crowd, without any of the disruptions caused by other alternatives.\n</p><p>\n</p><p><br></p>",
+          "text": "<h2>Avoid Safety Hazards</h2><p>Dirty concrete is not only unsightly… it’s also a safety hazard. When slippery dirt, grime and mildew form on your property’s outdoor surfaces, you put your customers and employees at risk of falling when entering and exiting your building.</p><p><br></p><p>\n</p><p>\n</p><p>Since private businesses are faced with nearly 3 million workplace injuries every year, managers and business owners across the country are looking for ways to improve the safety of their commercial properties. Roush Commercial Pressure Washing helps you to create a cleaner, safer business environment by removing buildup from dumpster pads, parking lots, sidewalks, drive-thru’s, entry ways, grease trap areas and more with our expert commercial pressure washing services.</p><p><br></p><p>\n</p><p>\n</p><h2>Clean With Convenience</h2><p>If you maintain a commercial property of any kind, you already know that widespread cleaning processes are especially challenging to undertake when customers and tenants are present. At Roush Commercial Pressure Washing, we understand this challenge. We know that it can be difficult to strike the right balance between scheduling regular property cleanings and avoiding disruptions for both employees and customers. That’s why we are happy to provide our commercial pressure washing services for your property during non-business hours.</p><p><br></p><p>\n</p><p>\n</p><p>Drastically improving your property’s image does not have to interfere with your daily business routine. We have the experience and equipment to make your commercial property stand out from the crowd, without any of the disruptions caused by other alternatives.\n</p><p>\n</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -2270,7 +2286,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<h1>For The Discerning Homeowner</h1><div>Have you noticed green or black mildew on your home’s siding? What about those awful, black streaks on your gutters? Is your vinyl siding chalky or dirty?\n</div><div>\n</div><div>How are we different from other companies offering pressure washing in Nashville? By selecting Roush Commercial Power Washing for your house washing needs, you can be confident that our safe, guarantee-backed cleaning methods will restore your home to its former beauty without the risk of damaging your house or landscaping.\n</div><div>\n</div><div><br></div><h1>Clean Your Home The Safe Way</h1><div>Did you know that most pressure washing companies in our area clean their customers’ homes at pressure levels much higher than is required? At Roush Commercial Power Washing, we know that it does not take 4000 psi to remove dirt and mildew from houses. In fact, such high-pressure streams of water can cause SEVERE damage to your home. We understand that almost any surface can be properly cleaned with little more than garden hose pressure.</div><div><br></div><div>The key to low pressure house washing is using the safest, most appropriate chemicals. Our house washing detergents are applied to the home with a low pressure nozzle and allowed to dwell for 5-15 minutes. During this time the bleach that is in the mixture turns any green or black mold to a light brown color.  Other debris like spider webs, dust, small insects and bird droppings are suspended in the foamy mixture.  Then we thoroughly rinse the home with low pressure clean water which removes all of the dust and debris as well as the dead organic material.</div><div><br></div><div>Our standard house washing solution consists of water, 12.5% Sodium Hypochlorite, and various other additives. Sodium Hypochlorite is the active ingredient in household bleach, although household bleach contains about 6% and the industrial version we use contains about 12%. Bleach is a very safe and eco-friendly chemical when used properly. We use the absolute minimum amount of chemicals possible, while still being able to provide a superior end product.</div><div><br></div><div>\n</div><div>\n</div><div>When our solution is injected into the water stream, it becomes diluted with water to around a 10:1 ratio.  Some of the other various additives that would be added into our house washing detergent would be foaming agents, surfactants, rinse aids, penetrators, and mold inhibitors.  Our house washing solutions are blended on site according to the type of debris found on your home, not mixed in huge batches like most cleaning contractors will do. One size does not fit all when it comes to house washing detergents.</div>",
+          "text": "<h2>For The Discerning Homeowner</h2><div>Have you noticed green or black mildew on your home’s siding? What about those awful, black streaks on your gutters? Is your vinyl siding chalky or dirty?\n</div><div>\n</div><div>How are we different from other companies offering pressure washing in Nashville? By selecting Roush Commercial Power Washing for your house washing needs, you can be confident that our safe, guarantee-backed cleaning methods will restore your home to its former beauty without the risk of damaging your house or landscaping.\n</div><div>\n</div><div><br></div><h2>Clean Your Home The Safe Way</h2><div>Did you know that most pressure washing companies in our area clean their customers’ homes at pressure levels much higher than is required? At Roush Commercial Power Washing, we know that it does not take 4000 psi to remove dirt and mildew from houses. In fact, such high-pressure streams of water can cause SEVERE damage to your home. We understand that almost any surface can be properly cleaned with little more than garden hose pressure.</div><div><br></div><div>The key to low pressure house washing is using the safest, most appropriate chemicals. Our house washing detergents are applied to the home with a low pressure nozzle and allowed to dwell for 5-15 minutes. During this time the bleach that is in the mixture turns any green or black mold to a light brown color.  Other debris like spider webs, dust, small insects and bird droppings are suspended in the foamy mixture.  Then we thoroughly rinse the home with low pressure clean water which removes all of the dust and debris as well as the dead organic material.</div><div><br></div><div>Our standard house washing solution consists of water, 12.5% Sodium Hypochlorite, and various other additives. Sodium Hypochlorite is the active ingredient in household bleach, although household bleach contains about 6% and the industrial version we use contains about 12%. Bleach is a very safe and eco-friendly chemical when used properly. We use the absolute minimum amount of chemicals possible, while still being able to provide a superior end product.</div><div><br></div><div>\n</div><div>\n</div><div>When our solution is injected into the water stream, it becomes diluted with water to around a 10:1 ratio.  Some of the other various additives that would be added into our house washing detergent would be foaming agents, surfactants, rinse aids, penetrators, and mold inhibitors.  Our house washing solutions are blended on site according to the type of debris found on your home, not mixed in huge batches like most cleaning contractors will do. One size does not fit all when it comes to house washing detergents.</div>",
           "_tags": [
             "Theme"
           ],
@@ -2673,7 +2689,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<h1>Roush Commercial Power Washing Utilizes State Of The Art Equipment To Deep Clean Concrete And Exposed Aggregate Surfaces.\n</h1><div>Our concrete cleaning process yields superior results time after time.  We use rotary surface cleaners instead of wands so that concrete is cleaned in a uniform, consistent pattern. Our high flow/high pressure machines, paired with 28″ surface cleaners allow us to clean very large areas quickly and thoroughly.  Our hot water pressure washing techniques can remove up to 50% more stains than pressure washing with standard cold water machines. When needed, our trained technicians use vacuum surface cleaners to instantly reclaim dirty wash water when cleaning concrete. This Wash Water Recovery process allows us to pressure wash concrete in interior settings such as warehouses, restaurants, manufacturing plants and automotive shops, without the risk of water intrusion to nearby equipment and sensitive areas.</div><div><br></div><h1>ATTENTION TO DETAIL\n</h1><div>One of the most important parts of cleaning flat surfaces like driveways, parking lots, sidewalks, and patios is what we call the “CUT IN”. The “CUT IN” is anywhere that our surface cleaners cannot reach. Corners, under railings, against walls, under benches, and around columns. These are the little details people notice.  At Roush Commercial Power Washing, attention to detail, with concrete cleaning, is what sets us apart.</div><div><br></div><div>\n</div><div>\n</div><div>Pressure washing concrete with ultra high temperature water allows us to remove stains that can not be removed with cold water alone. Our hot water pressure washers can melt away chewing gum and cut through oil, grease and other hard to remove stains. Hot water, along with the proper cleaning agents can drastically improve the look and traction of any concrete surface.</div>",
+          "text": "<h2>Roush Commercial Power Washing Utilizes State Of The Art Equipment To Deep Clean Concrete And Exposed Aggregate Surfaces.\n</h2><div>Our concrete cleaning process yields superior results time after time.  We use rotary surface cleaners instead of wands so that concrete is cleaned in a uniform, consistent pattern. Our high flow/high pressure machines, paired with 28″ surface cleaners allow us to clean very large areas quickly and thoroughly.  Our hot water pressure washing techniques can remove up to 50% more stains than pressure washing with standard cold water machines. When needed, our trained technicians use vacuum surface cleaners to instantly reclaim dirty wash water when cleaning concrete. This Wash Water Recovery process allows us to pressure wash concrete in interior settings such as warehouses, restaurants, manufacturing plants and automotive shops, without the risk of water intrusion to nearby equipment and sensitive areas.</div><div><br></div><h2>ATTENTION TO DETAIL\n</h2><div>One of the most important parts of cleaning flat surfaces like driveways, parking lots, sidewalks, and patios is what we call the “CUT IN”. The “CUT IN” is anywhere that our surface cleaners cannot reach. Corners, under railings, against walls, under benches, and around columns. These are the little details people notice.  At Roush Commercial Power Washing, attention to detail, with concrete cleaning, is what sets us apart.</div><div><br></div><div>\n</div><div>\n</div><div>Pressure washing concrete with ultra high temperature water allows us to remove stains that can not be removed with cold water alone. Our hot water pressure washers can melt away chewing gum and cut through oil, grease and other hard to remove stains. Hot water, along with the proper cleaning agents can drastically improve the look and traction of any concrete surface.</div>",
           "_tags": [
             "Theme"
           ],
@@ -2687,29 +2703,6 @@
             }
           },
           "_anchor": "content1-2j"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "font-size": "36px"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "<p>FREE ESTIMATES TO CLEAN CONCRETE FOR YOUR</p>",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-2n"
         },
         {
           "_params": {
@@ -2735,6 +2728,29 @@
             }
           },
           "_anchor": "content7-2m"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "<p>FREE ESTIMATES</p>",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2n"
         },
         {
           "_params": {
@@ -3064,7 +3080,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<h1>Metal Oxide Stains</h1><div>When water drips from one type of surface onto another, oxidation stains can occur. Similar to rust, oxidation stains can be very tricky to remove. Often times a mild acid or restoration chemical is used during the stain removal process, which can require several applications to achieve the best results. Some common scenarios that would generate metal oxide stains are: Runoff on a wall from a copper roof , runoff from aluminum window frames, and drip marks from leaking gutters.</div><div><br></div><h1></h1><h1>\nRust Stains</h1><div>Rust stains are a common problem for many properties. Rust stains cannot be removed with high pressure water. This kind of rust stain removal, requires specialty chemicals to remove safely. At Roush Commercial Power Washing, we obtain the proper certifications, and knowledge of local EPA regulations to SAFELY remove rust stains from virtually any surface.</div><div><br></div><h1>Organic Stains</h1><div>\n</div><div>Tree sap, algae, mold and mildew are just a few types of organic stains found in the middle Tennessee area. These types of stains occur on almost every building material used in construction. The location of a structure plays a key role in organic stains, north facing sides and heavily shaded areas are more to subject to organic type stains because the U.V. rays prohibit bacteria growth.</div><div><br></div><div>\n</div><div>\n</div><div>Roush Commercial Power Washing can safely remove organic stains from virtually any surface, ask us about special treatments that prevent organic stains from returning for up to 5 years!</div><div><br></div><h1>Efflorescence Removal</h1><div>\n</div><div>Efflorescence is a whitish, powdery deposit on the surface of a masonry material. It is formed as mineral-rich water rises to the surface through capillary action and then evaporates. Efflorescence usually consists of gypsum, salt, or calcite. Roush Commercial Power Washing uses only the highest grade products for efflorescence removal, resulting in outstanding results. For efflorescence removal in Southeastern United States, trust the professionals at Roush Commercial Power Washing!</div><div>\n</div>",
+          "text": "<h2>Metal Oxide Stains</h2><div>When water drips from one type of surface onto another, oxidation stains can occur. Similar to rust, oxidation stains can be very tricky to remove. Often times a mild acid or restoration chemical is used during the stain removal process, which can require several applications to achieve the best results. Some common scenarios that would generate metal oxide stains are: Runoff on a wall from a copper roof , runoff from aluminum window frames, and drip marks from leaking gutters.</div><div><br></div><h1></h1><h2>\nRust Stains</h2><div>Rust stains are a common problem for many properties. Rust stains cannot be removed with high pressure water. This kind of rust stain removal, requires specialty chemicals to remove safely. At Roush Commercial Power Washing, we obtain the proper certifications, and knowledge of local EPA regulations to SAFELY remove rust stains from virtually any surface.</div><div><br></div><h2>Organic Stains</h2><div>\n</div><div>Tree sap, algae, mold and mildew are just a few types of organic stains found in the middle Tennessee area. These types of stains occur on almost every building material used in construction. The location of a structure plays a key role in organic stains, north facing sides and heavily shaded areas are more to subject to organic type stains because the U.V. rays prohibit bacteria growth.</div><div><br></div><div>\n</div><div>\n</div><div>Roush Commercial Power Washing can safely remove organic stains from virtually any surface, ask us about special treatments that prevent organic stains from returning for up to 5 years!</div><div><br></div><h2>Efflorescence Removal</h2><div>\n</div><div>Efflorescence is a whitish, powdery deposit on the surface of a masonry material. It is formed as mineral-rich water rises to the surface through capillary action and then evaporates. Efflorescence usually consists of gypsum, salt, or calcite. Roush Commercial Power Washing uses only the highest grade products for efflorescence removal, resulting in outstanding results. For efflorescence removal in Southeastern United States, trust the professionals at Roush Commercial Power Washing!</div><div>\n</div>",
           "_tags": [
             "Theme"
           ],
