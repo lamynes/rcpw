@@ -2657,7 +2657,7 @@
             "paddingTop": "5",
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/pressure-washing-before-and-after-1-1920x1440.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/pressure-washing-before-and-after-1-1920x1440.jpeg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -2667,7 +2667,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.2"
+            "overlayOpacity": "0.3"
           },
           "title": "CONCRETE CLEANING",
           "text": "<p>We Have A Long History Of Eliminating The Embarrassing Streaks And Discolorations That Can Keep Your House From Looking Its Best.</p>",
