@@ -28,7 +28,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.11.4",
     "siteFonts": [],
-    "uniqCompNum": 78,
+    "uniqCompNum": 79,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -1891,8 +1891,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": "0.3"
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.2"
           },
           "title": "COMMERCIAL POWER WASHING",
           "text": "<p>Maintaining The Cleanliness And Safety Of Your Commercial Property Should Be A Top Priority, As Your Property Often Makes The First Impression On Your Potential Customers.</p>",
@@ -2052,6 +2052,43 @@
               "font-size": "20px"
             }
           }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            },
+            ".lead P": {
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/116706539-10163942212840072-761590412986484619-n-1920x1440.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.3"
+          },
+          "title": "Do You Own Or Manage A Commercial Property In Need Of Deep Cleaning?\r<div>If you aren’t 100% satisfied with the current state of your restaurant, retail store or other commercial property, consider how Pro Wash, LLC can help you improve your company’s image. By offering top-quality commercial pressure washing in Nashville and Middle Tennessee, Pro Wash, LLC delivers safe, convenient solutions to help your business make the right impression and avoid safety hazards.</div>",
+          "text": "<p>Do You Own Or Manage A Commercial Property In Need Of Deep Cleaning?\n</p><p>If you aren’t 100% satisfied with the current state of your restaurant, retail store or other commercial property, consider how Roush Commercial Pressure Washing can help you improve your company’s image. By offering top-quality commercial pressure washing in the Southeasrtern United States, Roush Commercial Pressure Washing delivers safe, convenient solutions to help your business make the right impression and avoid safety hazards.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-26"
         },
         {
           "_params": {

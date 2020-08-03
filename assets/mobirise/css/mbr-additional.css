@@ -1248,6 +1248,13 @@ section.form .container {
 #content1-25 P {
   font-size: 20px;
 }
+#msg-box8-26 .mbr-section-title,
+#msg-box8-26 .lead {
+  color: #fff;
+}
+#msg-box8-26 .lead P {
+  font-size: 20px;
+}
 #contacts1-1z P {
   font-size: 18px;
   color: #282828;
