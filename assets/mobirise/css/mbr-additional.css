@@ -1259,3 +1259,101 @@ section.form .container {
   font-size: 18px;
   color: #282828;
 }
+
+#ext_menu-28 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-28 .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-28 .navbar-toggler {
+  color: #282828;
+}
+#ext_menu-28 .close-icon::before,
+#ext_menu-28 .close-icon::after {
+  background-color: #282828;
+}
+#ext_menu-28 .link,
+#ext_menu-28 .dropdown-item {
+  color: #282828;
+}
+#ext_menu-28 .link {
+  font-size: 1.1rem;
+}
+#ext_menu-28 .dropdown-item,
+#ext_menu-28 .nav-dropdown-sm .link {
+  font-size: 1.191rem;
+}
+#ext_menu-28 .link:hover,
+#ext_menu-28 .dropdown-item:hover,
+#ext_menu-28 .link:focus,
+#ext_menu-28 .dropdown-item:focus {
+  color: #c0a375;
+}
+#ext_menu-28 .link[aria-expanded="true"],
+#ext_menu-28 .dropdown-menu {
+  background: #e6e6e6;
+}
+#ext_menu-28 .nav-dropdown-sm .link:focus,
+#ext_menu-28 .nav-dropdown-sm .link:hover,
+#ext_menu-28 .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-28 .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#ext_menu-28 .navbar,
+#ext_menu-28 .nav-dropdown-sm,
+#ext_menu-28 .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-28 .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#ext_menu-28 .bg-color.transparent .link {
+  color: #282828;
+  transition: none;
+}
+#ext_menu-28 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-28 .bg-color.transparent.opened .link:hover,
+#ext_menu-28 .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#ext_menu-28 .link[aria-expanded="true"],
+#ext_menu-28 .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#ext_menu-28 A {
+  font-family: 'Oswald', sans-serif;
+}
+#ext_menu-28 .btn SPAN {
+  font-size: 30px;
+}
+#ext_menu-28 .btn {
+  font-size: 20px;
+}
+#msg-box8-29 .mbr-section-title,
+#msg-box8-29 .lead {
+  color: #fff;
+}
+#msg-box8-29 .lead P {
+  font-size: 20px;
+}
+#features3-2a .card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#content1-2b P {
+  font-size: 20px;
+}
+#content1-2b DIV {
+  font-size: 20px;
+}
+#msg-box8-2d .mbr-section-title,
+#msg-box8-2d .lead {
+  color: #fff;
+}
+#msg-box8-2d .lead P {
+  font-size: 20px;
+}
+#contacts1-2e P {
+  font-size: 18px;
+  color: #282828;
+}
