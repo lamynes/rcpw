@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Roush Commercial Power Washing",
-    "currentPage": "residential_power_washing.html",
+    "currentPage": "concrete_cleaning.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -28,7 +28,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.11.4",
     "siteFonts": [],
-    "uniqCompNum": 87,
+    "uniqCompNum": 96,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -836,7 +836,7 @@
       "settings": {
         "meta_descr": "Our roof cleaning, chemical wash process is bio-degradable, plus lowers the energy bill by on average 11%. We make your house or commercial property look like new plus add life to your roof. If you are looking for high-quality, reliable, and personal service, you’ve found the right company.",
         "title": "Roush Commercial Power Washing: Roof Cleaning",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -1343,7 +1343,7 @@
       "settings": {
         "meta_descr": "Roush Commercial Power Washing is a Christian Family Owned Business providing professional residential and commercial roof cleaning as well as various exterior surface cleaning services. We offer competitive pricing for safe roof cleaning and other pressure washing services. By using our services, you will save thousands of dollars throughout the lifetime of your property by increasing the value.",
         "title": "Roush Commercial Power Washing: About Us",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -1573,7 +1573,7 @@
       "settings": {
         "meta_descr": "Check out our Blog for details of our current events",
         "title": "Roush Commercial Power Washing: Blog",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -2512,6 +2512,397 @@
             }
           },
           "_anchor": "contacts1-2e"
+        }
+      ]
+    },
+    "concrete_cleaning.html": {
+      "settings": {
+        "meta_descr": "We use rotary surface cleaners instead of wands so that concrete is cleaned in a uniform, consistent pattern. Our high flow/high pressure machines, paired with 28″ surface cleaners allow us to clean very large areas quickly and thoroughly. ",
+        "title": "Roush Commercial Power Washing: Concrete Cleaning",
+        "order": 3
+      },
+      "components": [
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2020 ROUSH COMMERCIAL POWER WASHING.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-2f"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": "1.1",
+            "fontName": {},
+            "fontColor": "#282828",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"roof-cleaning.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"residential_power_washing.html\">RESIDENTIAL HOUSE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"commercial_power_washing.html\">COMMERCIAL PRESSURE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">CONCRETE CLEANING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">STAIN REMOVAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"roof-cleaning.html\">ROOF CLEANING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">APARTMENT PRESSURE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">VACUUM RECLAIM PRESSURE WASHING</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about_us.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>SCHEDULE ONLINE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#282828"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#282828"
+            },
+            ".link, .dropdown-item": {
+              "color": "#282828"
+            },
+            ".link": {
+              "font-size": "1.1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.191rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#282828",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "A": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".btn SPAN": {
+              "font-size": "30px"
+            },
+            ".btn": {
+              "font-size": "20px"
+            }
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/untitled-52-212x128.png",
+              "height": 128,
+              "alt": "Roush Commercial Power Washing",
+              "link": "index.html",
+              "title": "Roush Commercial Power Washing",
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "hand-washing",
+              "family": "icon54-v2",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RCPW</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-2g"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            },
+            ".lead P": {
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "5",
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/pressure-washing-before-and-after-1-1920x1440.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.2"
+          },
+          "title": "CONCRETE CLEANING",
+          "text": "<p>We Have A Long History Of Eliminating The Embarrassing Streaks And Discolorations That Can Keep Your House From Looking Its Best.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2h"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": false,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/57608774-1070472646496543-3796950951672152064-n-600x450.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Roush Commercial Power Washing",
+              "title": "Roush Commercial Power Washing"
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/60458925-1084533021757172-6560821823225724928-n-600x800.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Roush Commercial Power Washing",
+              "title": "Roush Commercial Power Washing"
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/83198844-1294305004113305-4725395080020492288-n-3-600x800.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Roush Commercial Power Washing",
+              "title": "Roush Commercial Power Washing"
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/69675617-1155399781337162-3195520981791670272-n-600x450.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Roush Commercial Power Washing",
+              "title": "Roush Commercial Power Washing"
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_customCSS": ".card{\nbox-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);\n}",
+          "_anchor": "features3-2i"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<h1>Roush Commercial Power Washing Utilizes State Of The Art Equipment To Deep Clean Concrete And Exposed Aggregate Surfaces.\n</h1><div>Our concrete cleaning process yields superior results time after time.  We use rotary surface cleaners instead of wands so that concrete is cleaned in a uniform, consistent pattern. Our high flow/high pressure machines, paired with 28″ surface cleaners allow us to clean very large areas quickly and thoroughly.  Our hot water pressure washing techniques can remove up to 50% more stains than pressure washing with standard cold water machines. When needed, our trained technicians use vacuum surface cleaners to instantly reclaim dirty wash water when cleaning concrete. This Wash Water Recovery process allows us to pressure wash concrete in interior settings such as warehouses, restaurants, manufacturing plants and automotive shops, without the risk of water intrusion to nearby equipment and sensitive areas.</div><div><br></div><h1>ATTENTION TO DETAIL\n</h1><div>One of the most important parts of cleaning flat surfaces like driveways, parking lots, sidewalks, and patios is what we call the “CUT IN”. The “CUT IN” is anywhere that our surface cleaners cannot reach. Corners, under railings, against walls, under benches, and around columns. These are the little details people notice.  At Roush Commercial Power Washing, attention to detail, with concrete cleaning, is what sets us apart.</div><div><br></div><div>\n</div><div>\n</div><div>Pressure washing concrete with ultra high temperature water allows us to remove stains that can not be removed with cold water alone. Our hot water pressure washers can melt away chewing gum and cut through oil, grease and other hard to remove stains. Hot water, along with the proper cleaning agents can drastically improve the look and traction of any concrete surface.</div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "20px"
+            },
+            "DIV": {
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "content1-2j"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "<p>FREE ESTIMATES TO CLEAN CONCRETE FOR YOUR</p>",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2n"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "text1": "<ul><li>Gas Stations\n</li><li>Parking Lots\n</li><li>Driveways</li></ul>",
+          "text2": "<ul><li>Storefronts\n</li><li>Warehouse Floors\n</li><li>Dumpster Pads\n</li></ul>",
+          "text3": "<ul><li>Pool Decks\r</li><li>Sidewalks\r</li><li>And More...</li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_styles": {
+            ".lead UL": {
+              "font-size": "20px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".lead": {
+              "color": "#282828"
+            }
+          },
+          "_anchor": "content7-2m"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/untitled-52-128x77.png",
+              "width": 128,
+              "active": true,
+              "link": "index.html",
+              "alt": "Roush Commercial Power Washing",
+              "title": "Roush Commercial Power Washing"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "BUSINESS HOURS<br>Mon - Sat: &nbsp;8:00 am - 5:00 pm\n<br>Sunday: Closed<br>",
+          "text2": "CONTACTS<br>Phone: <a href=\"tel:(251) 508-6018\" class=\"text-primary\">(251) 508-6018&nbsp;</a><br>",
+          "text3": "LINKS<br>\n<a class=\"text-primary\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\">SCHEDULE ONLINE</a><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-size": "18px",
+              "color": "#282828"
+            }
+          },
+          "_anchor": "contacts1-2l"
         }
       ]
     }
