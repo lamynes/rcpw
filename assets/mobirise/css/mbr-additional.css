@@ -1277,19 +1277,19 @@ section.form .container {
 #content1-2b DIV {
   font-size: 20px;
 }
-#header3-2x .mbr-section-title,
-#header3-2x .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-2x .mbr-section-title {
-  font-size: 36px;
-}
 #msg-box8-2d .mbr-section-title,
 #msg-box8-2d .lead {
   color: #fff;
 }
 #msg-box8-2d .lead P {
   font-size: 20px;
+}
+#header3-2x .mbr-section-title,
+#header3-2x .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2x .mbr-section-title {
+  font-size: 36px;
 }
 #contacts1-2e P {
   font-size: 18px;
