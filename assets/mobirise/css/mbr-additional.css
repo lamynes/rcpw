@@ -1173,19 +1173,19 @@ section.form .container {
 #content1-25 P {
   font-size: 20px;
 }
-#header3-2w .mbr-section-title,
-#header3-2w .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-2w .mbr-section-title {
-  font-size: 36px;
-}
 #msg-box8-26 .mbr-section-title,
 #msg-box8-26 .lead {
   color: #fff;
 }
 #msg-box8-26 .lead P {
   font-size: 20px;
+}
+#header3-2w .mbr-section-title,
+#header3-2w .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2w .mbr-section-title {
+  font-size: 36px;
 }
 #contacts1-1z P {
   font-size: 18px;
