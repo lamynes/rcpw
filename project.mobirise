@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Roush Commercial Power Washing",
-    "currentPage": "roof-cleaning.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -242,7 +242,7 @@
               "active": true
             }
           },
-          "title": "<h2><b>OUR SERVICES INCLUDE</b></h2>",
+          "title": "<h2><b>SERVING THE SOUTHEASTERN UNITED STATES</b></h2>",
           "subtitle": "Mon - Sat:  8:00 am - 5:00 pm<br>Sunday: Closed",
           "title1": "Full-Service Exterior Power Wash and Surface Cleaning",
           "subtitle1": "Bootstrap 4 has been noted",
