@@ -1163,11 +1163,11 @@ section.form .container {
 #msg-box8-20 .lead P {
   font-size: 20px;
 }
-#features3-23 .card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
 #content1-24 P {
   font-size: 20px;
+}
+#features3-23 .card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 #content1-25 P {
   font-size: 20px;
@@ -1268,14 +1268,14 @@ section.form .container {
 #msg-box8-29 .lead P {
   font-size: 20px;
 }
-#features3-2a .card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
 #content1-2b P {
   font-size: 20px;
 }
 #content1-2b DIV {
   font-size: 20px;
+}
+#features3-2a .card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 #msg-box8-2d .mbr-section-title,
 #msg-box8-2d .lead {
@@ -1374,9 +1374,6 @@ section.form .container {
 #msg-box8-2h .lead P {
   font-size: 20px;
 }
-#features3-2i .card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
 #content1-2j P {
   font-size: 20px;
 }
@@ -1389,6 +1386,9 @@ section.form .container {
 }
 #content7-2m .lead {
   color: #282828;
+}
+#features3-2i .card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 #header3-2n .mbr-section-title,
 #header3-2n .mbr-section-subtitle {
@@ -1479,9 +1479,6 @@ section.form .container {
 #msg-box8-2q .lead P {
   font-size: 20px;
 }
-#features3-2r .card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
 #content1-2s P {
   font-size: 20px;
 }
@@ -1490,6 +1487,9 @@ section.form .container {
 }
 #content1-2s H1 {
   font-size: 48px;
+}
+#features3-2r .card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 #header3-2t .mbr-section-title,
 #header3-2t .mbr-section-subtitle {
