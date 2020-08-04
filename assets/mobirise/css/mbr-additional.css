@@ -888,6 +888,9 @@ section.form .container {
   font-family: 'Roboto', sans-serif;
   font-size: 48px;
 }
+#msg-box8-o .lead {
+  font-size: 20px;
+}
 #content1-q P {
   text-align: left;
   font-size: 20px;

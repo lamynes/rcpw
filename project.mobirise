@@ -871,11 +871,14 @@
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
               "font-size": "48px"
+            },
+            ".lead": {
+              "font-size": "20px"
             }
           },
           "_params": {
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButton": false,
             "paddingTop": "5",
             "paddingBottom": "3",
@@ -893,7 +896,7 @@
             "overlayOpacity": "0.5"
           },
           "title": "ROOF CLEANING",
-          "text": "We specialize",
+          "text": "Our exterior roof cleaning, chemical wash process is bio-degradable, plus lowers the energy bill by on average 11%.&nbsp;",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.facebook.com/roushhomecleaning/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>SCHEDULE ONLINE</a>",
           "_tags": [
             "Theme"
@@ -901,6 +904,73 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-o",
           "_customCSS": ""
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<h2>Our Method Of Roof Cleaning Is Superior In Many Ways.</h2><p>We make the exterior of your house or commercial property look like new plus add life to your roof. If you are looking for high-quality, reliable, and personal service, you’ve found the right company.</p><p><br></p><p>\n</p><p>This is a method where we rely on the use of specialty cleaning chemicals and very low pressure to safely and effectively clean your roof.&nbsp;</p><p><br></p><p>\n</p><p>Our experience and equipment allows us to use just the right amount of detergents, reducing the overall chemical usage for the job.  This method is safer for the environment and your landscaping.  By carefully saturating all adjacent vegetation before, during and after the cleaning process, any chemical run off is diluted to safe levels.  We typically cover any shrubs, ornamental trees, roses or other delicate plants with plastic sheeting to ensure they are not affected by our process.</p><p><br></p><h2>The “Dark-Streaks” On Your Roof Are Actually Algae, Mold And Fungus Colonies That Have Grown And Spread Downward.\n</h2><p><br></p><p>The main bacteria causing these “black-streaks” on roofs is called Gloeocapsa Magma, this bacteria as well as other bacteria, algae, molds, fungus and lichen are one of the main causes of roofing material breakdown and decomposition. The lichen has a filament root system that will grow down into an asphalt shingle to feed and ultimately pull the aggregate granule layer off exposing the asphalt layer therefore starting a rapid deterioration.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-q",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-size": "20px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "DIV": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "text1": "<ul><li>Shingle Roof Cleaning\n</li><li>Tile Roof Cleaning</li><li>Stucco Roof Cleaning</li></ul>",
+          "text2": "<ul><li>Metal Roof Cleaning\n</li><li>Vinyl Siding Cleaning</li></ul>",
+          "text3": "<ul><li>Gutter Cleaning\n</li><li>Awning Cleaning</li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-r",
+          "_styles": {
+            ".lead UL": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "20px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><span style=\"color: inherit; font-size: 2.5rem; font-weight: 600; letter-spacing: -1px;\">THE BENEFITS OF A CLEAN ROOF</span><br></p><ul><li>1 out of every 3 residential roofs are replaced prematurely due to the appearance of the shingles rather than the functionality of the roof itself.\n</li><li>The algae that grows on roofs feeds on the limestone filler in shingles causing them to breakdown and deteriorate.\n</li><li>Keeping your roof clean can save you on your ELECTRIC BILL! Darkening of shingles from the mold and algae causes your roof to get hotter costing you more.\n</li><li>Keeping your roof clean of algae, mold and fungus free can dramatically extend the life of your roof.</li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2y",
+          "_styles": {
+            "P": {
+              "font-size": "20px"
+            },
+            "UL": {
+              "font-size": "20px"
+            }
+          }
         },
         {
           "_params": {
@@ -1007,73 +1077,6 @@
           "_JSplaceholders": [],
           "_customCSS": "",
           "_customTemplate": true
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<h2>Our Method Of Roof Cleaning Is Superior In Many Ways.</h2><p>Our exterior roof cleaning, chemical wash process is bio-degradable, plus lowers the energy bill by on average 11%. We make the exterior of your house or commercial property look like new plus add life to your roof. If you are looking for high-quality, reliable, and personal service, you’ve found the right company.</p><p><br></p><p>\n</p><p>This is a method where we rely on the use of specialty cleaning chemicals and very low pressure to safely and effectively clean your roof.&nbsp;<br></p><p>\n</p><p>Our experience and equipment allows us to use just the right amount of detergents, reducing the overall chemical usage for the job.  This method is safer for the environment and your landscaping.  By carefully saturating all adjacent vegetation before, during and after the cleaning process, any chemical run off is diluted to safe levels.  We typically cover any shrubs, ornamental trees, roses or other delicate plants with plastic sheeting to ensure they are not affected by our process.</p><p><br></p><h2>The “Dark-Streaks” On Your Roof Are Actually Algae, Mold And Fungus Colonies That Have Grown And Spread Downward.\n</h2><p><br></p><p>The main bacteria causing these “black-streaks” on roofs is called Gloeocapsa Magma, this bacteria as well as other bacteria, algae, molds, fungus and lichen are one of the main causes of roofing material breakdown and decomposition. The lichen has a filament root system that will grow down into an asphalt shingle to feed and ultimately pull the aggregate granule layer off exposing the asphalt layer therefore starting a rapid deterioration.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-q",
-          "_styles": {
-            "P": {
-              "text-align": "left",
-              "font-size": "20px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            "DIV": {
-              "color": "#000000"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#fff"
-          },
-          "text1": "<ul><li>Shingle Roof Cleaning\n</li><li>Tile Roof Cleaning</li><li>Stucco Roof Cleaning</li></ul>",
-          "text2": "<ul><li>Metal Roof Cleaning\n</li><li>Vinyl Siding Cleaning</li><li>Driveway Cleaning</li></ul>",
-          "text3": "<ul><li>Concrete Cleaning\n</li><li>Gutter Cleaning\n</li><li>Awning Cleaning</li></ul>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content7",
-          "_anchor": "content7-r",
-          "_styles": {
-            ".lead UL": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "20px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p><span style=\"color: inherit; font-size: 2.5rem; font-weight: 600; letter-spacing: -1px;\">THE BENEFITS OF A CLEAN ROOF</span><br></p><ul><li>1 out of every 3 residential roofs are replaced prematurely due to the appearance of the shingles rather than the functionality of the roof itself.\n</li><li>The algae that grows on roofs feeds on the limestone filler in shingles causing them to breakdown and deteriorate.\n</li><li>Keeping your roof clean can save you on your ELECTRIC BILL! Darkening of shingles from the mold and algae causes your roof to get hotter costing you more.\n</li><li>Keeping your roof clean of algae, mold and fungus free can dramatically extend the life of your roof.</li></ul>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-2y",
-          "_styles": {
-            "P": {
-              "font-size": "20px"
-            },
-            "UL": {
-              "font-size": "20px"
-            }
-          }
         },
         {
           "_inherit": "menu",
@@ -2054,7 +2057,7 @@
             "showText": true,
             "showButton": false,
             "paddingTop": "5",
-            "paddingBottom": 3,
+            "paddingBottom": "4",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/roush-home-and-roof-3b-1-1920x1440.jpg",
             "parallax": true,
@@ -2113,7 +2116,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/60156344-1085360021674472-1344707685752242176-n-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/effects-2-4-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2124,7 +2127,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/57608774-1070472646496543-3796950951672152064-n-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/96418864-1370988353111636-4966116761326845952-n-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2135,7 +2138,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/66839154-1128040757406398-174594470736560128-n-1-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/effects-2-3-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2850,7 +2853,7 @@
             "paddingTop": "5",
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/94247165-1357501734460298-782637414647595008-n-1920x1440.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/96418864-1370988353111636-4966116761326845952-n-1920x1440.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -2860,9 +2863,9 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.3"
+            "overlayOpacity": "0.2"
           },
-          "title": "STAINS REMOVAL",
+          "title": "STAIN REMOVAL",
           "text": "<p>We Have A Long History Of Eliminating The Embarrassing Streaks And Discolorations That Can Keep Your House From Looking Its Best.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
@@ -2907,7 +2910,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/roush-home-and-roof-2a-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/machine-power-wash-960-720-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2918,7 +2921,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/60156344-1085360021674472-1344707685752242176-n-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/siding-cleaning-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2929,7 +2932,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/69675617-1155399781337162-3195520981791670272-n-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/effects-2-3-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
