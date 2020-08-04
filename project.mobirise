@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Roush Commercial Power Washing",
-    "currentPage": "index.html",
+    "currentPage": "residential_power_washing.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -2116,7 +2116,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/effects-2-4-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/roush-home-and-roof-3b-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2226,10 +2226,10 @@
           },
           "_params": {
             "showTitle": false,
-            "showText": true,
+            "showText": false,
             "showButton": false,
-            "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/96418864-1370988353111636-4966116761326845952-n-1920x1440.jpg",
             "parallax": true,
@@ -2244,7 +2244,7 @@
             "overlayOpacity": "0.4"
           },
           "title": "Do You Own Or Manage A Commercial Property In Need Of Deep Cleaning?\r<div>If you aren’t 100% satisfied with the current state of your restaurant, retail store or other commercial property, consider how Pro Wash, LLC can help you improve your company’s image. By offering top-quality commercial pressure washing in Nashville and Middle Tennessee, Pro Wash, LLC delivers safe, convenient solutions to help your business make the right impression and avoid safety hazards.</div>",
-          "text": "<p>If you are like many of our customers, you take great pride in your home’s carefully planned landscaping. We know that you spend substantial amounts of time and money to make sure your home is beautifully landscaped throughout the year. That’s why we GUARANTEE that Roush Commercial Power Washing house washing process will never damage your home’s valuable landscaping. This commitment to 100% safe pressure washing in Nashville and Middle Tennessee truly sets us apart from other alternatives.\n</p>",
+          "text": "<p>If you are like many of our customers, you take great pride in your home’s carefully planned landscaping. We know that you spend substantial amounts of time and money to make sure your home is beautifully landscaped throughout the year. That’s why we GUARANTEE that Roush Commercial Power Washing house washing process will never damage your home’s valuable landscaping. This commitment to 100% safe pressure washing in the Southeastern United States truly sets us apart from other alternatives.\n</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -2899,7 +2899,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/66839154-1128040757406398-174594470736560128-n-1-1-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/roush-home-and-roof-3b-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2910,7 +2910,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/machine-power-wash-960-720-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/66791535-1128040740739733-5560058026230022144-n-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2921,7 +2921,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/siding-cleaning-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/roush-home-and-roof-8b-480x360.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2994,7 +2994,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<h2>Metal Oxide Stains</h2><div>When water drips from one type of surface onto another, oxidation stains can occur. Similar to rust, oxidation stains can be very tricky to remove. Often times a mild acid or restoration chemical is used during the stain removal process, which can require several applications to achieve the best results. Some common scenarios that would generate metal oxide stains are: Runoff on a wall from a copper roof , runoff from aluminum window frames, and drip marks from leaking gutters.</div><div><br></div><h1></h1><h2>\nRust Stains</h2><div>Rust stains are a common problem for many properties. Rust stains cannot be removed with high pressure water. This kind of rust stain removal, requires specialty chemicals to remove safely. At Roush Commercial Power Washing, we obtain the proper certifications, and knowledge of local EPA regulations to SAFELY remove rust stains from virtually any surface.</div><div><br></div><h2>Organic Stains</h2><div>\n</div><div>Tree sap, algae, mold and mildew are just a few types of organic stains found in the middle Tennessee area. These types of stains occur on almost every building material used in construction. The location of a structure plays a key role in organic stains, north facing sides and heavily shaded areas are more to subject to organic type stains because the U.V. rays prohibit bacteria growth.</div><div><br></div><div>\n</div><div>\n</div><div>Roush Commercial Power Washing can safely remove organic stains from virtually any surface, ask us about special treatments that prevent organic stains from returning for up to 5 years!</div><div><br></div><h2>Efflorescence Removal</h2><div>\n</div><div>Efflorescence is a whitish, powdery deposit on the surface of a masonry material. It is formed as mineral-rich water rises to the surface through capillary action and then evaporates. Efflorescence usually consists of gypsum, salt, or calcite. Roush Commercial Power Washing uses only the highest grade products for efflorescence removal, resulting in outstanding results. For efflorescence removal in Southeastern United States, trust the professionals at Roush Commercial Power Washing!</div><div>\n</div>",
+          "text": "<h2>Metal Oxide Stains</h2><div>When water drips from one type of surface onto another, oxidation stains can occur. Similar to rust, oxidation stains can be very tricky to remove. Often times a mild acid or restoration chemical is used during the stain removal process, which can require several applications to achieve the best results. Some common scenarios that would generate metal oxide stains are: Runoff on a wall from a copper roof , runoff from aluminum window frames, and drip marks from leaking gutters.</div><div><br></div><h1></h1><h2>\nRust Stains</h2><div>Rust stains are a common problem for many properties. Rust stains cannot be removed with high pressure water. This kind of rust stain removal, requires specialty chemicals to remove safely. At Roush Commercial Power Washing, we obtain the proper certifications, and knowledge of local EPA regulations to SAFELY remove rust stains from virtually any surface.</div><div><br></div><h2>Organic Stains</h2><div>\n</div><div>Tree sap, algae, mold and mildew are just a few types of organic stains found in the Southeastern area. These types of stains occur on almost every building material used in construction. The location of a structure plays a key role in organic stains, north facing sides and heavily shaded areas are more to subject to organic type stains because the U.V. rays prohibit bacteria growth.</div><div><br></div><div>\n</div><div>\n</div><div>Roush Commercial Power Washing can safely remove organic stains from virtually any surface, ask us about special treatments that prevent organic stains from returning for up to 5 years!</div><div><br></div><h2>Efflorescence Removal</h2><div>\n</div><div>Efflorescence is a whitish, powdery deposit on the surface of a masonry material. It is formed as mineral-rich water rises to the surface through capillary action and then evaporates. Efflorescence usually consists of gypsum, salt, or calcite. Roush Commercial Power Washing uses only the highest grade products for efflorescence removal, resulting in outstanding results. For efflorescence removal in Southeastern United States, trust the professionals at Roush Commercial Power Washing!</div><div>\n</div>",
           "_tags": [
             "Theme"
           ],
