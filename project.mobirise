@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Roush Commercial Power Washing",
-    "currentPage": "index.html",
+    "currentPage": "apartment_pressure_washing.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -28,7 +28,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.11.4",
     "siteFonts": [],
-    "uniqCompNum": 110,
+    "uniqCompNum": 118,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -702,7 +702,7 @@
             "fontColor": "#282828",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"roof-cleaning.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"residential_power_washing.html\">RESIDENTIAL HOUSE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"commercial_power_washing.html\">COMMERCIAL PRESSURE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"concrete_cleaning.html\">CONCRETE CLEANING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"stains_removal.html\">STAIN REMOVAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"roof-cleaning.html\">ROOF CLEANING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">APARTMENT PRESSURE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">VACUUM RECLAIM PRESSURE WASHING</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about_us.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>SCHEDULE ONLINE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"roof-cleaning.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"residential_power_washing.html\">RESIDENTIAL HOUSE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"commercial_power_washing.html\">COMMERCIAL PRESSURE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"concrete_cleaning.html\">CONCRETE CLEANING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"stains_removal.html\">STAIN REMOVAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"roof-cleaning.html\">ROOF CLEANING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"apartment_pressure_washing.html\">APARTMENT PRESSURE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">VACUUM RECLAIM PRESSURE WASHING</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about_us.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>SCHEDULE ONLINE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -816,7 +816,7 @@
           },
           "text1": "BUSINESS HOURS<br>Mon - Sat: &nbsp;8:00 am - 5:00 pm\n<br>Sunday: Closed<br>",
           "text2": "CONTACTS<br>Phone: <a href=\"tel:(251) 508-6018\" class=\"text-primary\">(251) 508-6018&nbsp;</a><br>",
-          "text3": "LINKS<br>\n<a class=\"text-primary\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\">SCHEDULE ONLINE</a><br>",
+          "text3": "<p>LINKS<br>\n<a class=\"text-primary\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\">SCHEDULE ONLINE</a><br></p><p><a class=\"text-primary\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\"><br></a><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -1093,7 +1093,7 @@
             "fontColor": "#282828",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"roof-cleaning.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"residential_power_washing.html\">RESIDENTIAL HOUSE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"commercial_power_washing.html\">COMMERCIAL PRESSURE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"concrete_cleaning.html\">CONCRETE CLEANING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"stains_removal.html\">STAIN REMOVAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"roof-cleaning.html\">ROOF CLEANING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">APARTMENT PRESSURE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">VACUUM RECLAIM PRESSURE WASHING</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about_us.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>SCHEDULE ONLINE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"roof-cleaning.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"residential_power_washing.html\">RESIDENTIAL HOUSE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"commercial_power_washing.html\">COMMERCIAL PRESSURE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"concrete_cleaning.html\">CONCRETE CLEANING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"stains_removal.html\">STAIN REMOVAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"roof-cleaning.html\">ROOF CLEANING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"apartment_pressure_washing.html\">APARTMENT PRESSURE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">VACUUM RECLAIM PRESSURE WASHING</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about_us.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>SCHEDULE ONLINE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1231,7 +1231,7 @@
           },
           "text1": "BUSINESS HOURS<br>Mon - Sat: &nbsp;8:00 am - 5:00 pm\n<br>Sunday: Closed<br>",
           "text2": "CONTACTS<br>Phone: <a href=\"tel:(251) 508-6018\" class=\"text-primary\">(251) 508-6018&nbsp;</a><br>",
-          "text3": "LINKS<br>\n<a class=\"text-primary\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\">SCHEDULE ONLINE</a><br>",
+          "text3": "<p>LINKS<br>\n<a class=\"text-primary\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\">SCHEDULE ONLINE</a><br></p><p><a class=\"text-primary\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\"><br></a><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -1250,7 +1250,7 @@
       "settings": {
         "meta_descr": "Roush Commercial Power Washing is a Christian Family Owned Business providing professional residential and commercial roof cleaning as well as various exterior surface cleaning services. We offer competitive pricing for safe roof cleaning and other pressure washing services. By using our services, you will save thousands of dollars throughout the lifetime of your property by increasing the value.",
         "title": "Roush Commercial Power Washing: About Us",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -1288,7 +1288,7 @@
             "fontColor": "#282828",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"roof-cleaning.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"residential_power_washing.html\">RESIDENTIAL HOUSE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"commercial_power_washing.html\">COMMERCIAL PRESSURE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"concrete_cleaning.html\">CONCRETE CLEANING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"stains_removal.html\">STAIN REMOVAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"roof-cleaning.html\">ROOF CLEANING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">APARTMENT PRESSURE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">VACUUM RECLAIM PRESSURE WASHING</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about_us.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>SCHEDULE ONLINE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"roof-cleaning.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"residential_power_washing.html\">RESIDENTIAL HOUSE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"commercial_power_washing.html\">COMMERCIAL PRESSURE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"concrete_cleaning.html\">CONCRETE CLEANING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"stains_removal.html\">STAIN REMOVAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"roof-cleaning.html\">ROOF CLEANING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"apartment_pressure_washing.html\">APARTMENT PRESSURE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">VACUUM RECLAIM PRESSURE WASHING</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about_us.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>SCHEDULE ONLINE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1484,7 +1484,7 @@
           },
           "text1": "BUSINESS HOURS<br>Mon - Sat: &nbsp;8:00 am - 5:00 pm\n<br>Sunday: Closed<br>",
           "text2": "CONTACTS<br>Phone: <a href=\"tel:(251) 508-6018\" class=\"text-primary\">(251) 508-6018&nbsp;</a><br>",
-          "text3": "LINKS<br>\n<a class=\"text-primary\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\">SCHEDULE ONLINE</a><br>",
+          "text3": "<p>LINKS<br>\n<a class=\"text-primary\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\">SCHEDULE ONLINE</a><br></p><p><a class=\"text-primary\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\"><br></a><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -1541,7 +1541,7 @@
             "fontColor": "#282828",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"roof-cleaning.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"residential_power_washing.html\">RESIDENTIAL HOUSE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"commercial_power_washing.html\">COMMERCIAL PRESSURE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"concrete_cleaning.html\">CONCRETE CLEANING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"stains_removal.html\">STAIN REMOVAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"roof-cleaning.html\">ROOF CLEANING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">APARTMENT PRESSURE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">VACUUM RECLAIM PRESSURE WASHING</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about_us.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>SCHEDULE ONLINE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"roof-cleaning.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"residential_power_washing.html\">RESIDENTIAL HOUSE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"commercial_power_washing.html\">COMMERCIAL PRESSURE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"concrete_cleaning.html\">CONCRETE CLEANING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"stains_removal.html\">STAIN REMOVAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"roof-cleaning.html\">ROOF CLEANING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"apartment_pressure_washing.html\">APARTMENT PRESSURE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">VACUUM RECLAIM PRESSURE WASHING</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about_us.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>SCHEDULE ONLINE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1902,7 +1902,7 @@
           },
           "text1": "BUSINESS HOURS<br>Mon - Sat: &nbsp;8:00 am - 5:00 pm\n<br>Sunday: Closed<br>",
           "text2": "CONTACTS<br>Phone: <a href=\"tel:(251) 508-6018\" class=\"text-primary\">(251) 508-6018&nbsp;</a><br>",
-          "text3": "LINKS<br>\n<a class=\"text-primary\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\">SCHEDULE ONLINE</a><br>",
+          "text3": "<p>LINKS<br>\n<a class=\"text-primary\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\">SCHEDULE ONLINE</a><br></p><p><a class=\"text-primary\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\"><br></a><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -1959,7 +1959,7 @@
             "fontColor": "#282828",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"roof-cleaning.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"residential_power_washing.html\">RESIDENTIAL HOUSE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"commercial_power_washing.html\">COMMERCIAL PRESSURE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"concrete_cleaning.html\">CONCRETE CLEANING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"stains_removal.html\">STAIN REMOVAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"roof-cleaning.html\">ROOF CLEANING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">APARTMENT PRESSURE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">VACUUM RECLAIM PRESSURE WASHING</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about_us.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>SCHEDULE ONLINE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"roof-cleaning.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"residential_power_washing.html\">RESIDENTIAL HOUSE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"commercial_power_washing.html\">COMMERCIAL PRESSURE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"concrete_cleaning.html\">CONCRETE CLEANING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"stains_removal.html\">STAIN REMOVAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"roof-cleaning.html\">ROOF CLEANING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"apartment_pressure_washing.html\">APARTMENT PRESSURE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">VACUUM RECLAIM PRESSURE WASHING</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about_us.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>SCHEDULE ONLINE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2305,7 +2305,7 @@
           },
           "text1": "BUSINESS HOURS<br>Mon - Sat: &nbsp;8:00 am - 5:00 pm\n<br>Sunday: Closed<br>",
           "text2": "CONTACTS<br>Phone: <a href=\"tel:(251) 508-6018\" class=\"text-primary\">(251) 508-6018&nbsp;</a><br>",
-          "text3": "LINKS<br>\n<a class=\"text-primary\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\">SCHEDULE ONLINE</a><br>",
+          "text3": "<p>LINKS<br>\n<a class=\"text-primary\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\">SCHEDULE ONLINE</a><br></p><p><a class=\"text-primary\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\"><br></a><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -2362,7 +2362,7 @@
             "fontColor": "#282828",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"roof-cleaning.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"residential_power_washing.html\">RESIDENTIAL HOUSE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"commercial_power_washing.html\">COMMERCIAL PRESSURE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"concrete_cleaning.html\">CONCRETE CLEANING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"stains_removal.html\">STAIN REMOVAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"roof-cleaning.html\">ROOF CLEANING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">APARTMENT PRESSURE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">VACUUM RECLAIM PRESSURE WASHING</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about_us.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>SCHEDULE ONLINE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"roof-cleaning.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"residential_power_washing.html\">RESIDENTIAL HOUSE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"commercial_power_washing.html\">COMMERCIAL PRESSURE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"concrete_cleaning.html\">CONCRETE CLEANING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"stains_removal.html\">STAIN REMOVAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"roof-cleaning.html\">ROOF CLEANING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"apartment_pressure_washing.html\">APARTMENT PRESSURE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">VACUUM RECLAIM PRESSURE WASHING</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about_us.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>SCHEDULE ONLINE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2696,7 +2696,7 @@
           },
           "text1": "BUSINESS HOURS<br>Mon - Sat: &nbsp;8:00 am - 5:00 pm\n<br>Sunday: Closed<br>",
           "text2": "CONTACTS<br>Phone: <a href=\"tel:(251) 508-6018\" class=\"text-primary\">(251) 508-6018&nbsp;</a><br>",
-          "text3": "LINKS<br>\n<a class=\"text-primary\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\">SCHEDULE ONLINE</a><br>",
+          "text3": "<p>LINKS<br>\n<a class=\"text-primary\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\">SCHEDULE ONLINE</a><br></p><p><a class=\"text-primary\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\"><br></a><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -2753,7 +2753,7 @@
             "fontColor": "#282828",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"roof-cleaning.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"residential_power_washing.html\">RESIDENTIAL HOUSE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"commercial_power_washing.html\">COMMERCIAL PRESSURE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"concrete_cleaning.html\">CONCRETE CLEANING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"stains_removal.html\">STAIN REMOVAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"roof-cleaning.html\">ROOF CLEANING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">APARTMENT PRESSURE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">VACUUM RECLAIM PRESSURE WASHING</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about_us.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>SCHEDULE ONLINE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"roof-cleaning.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"residential_power_washing.html\">RESIDENTIAL HOUSE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"commercial_power_washing.html\">COMMERCIAL PRESSURE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"concrete_cleaning.html\">CONCRETE CLEANING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"stains_removal.html\">STAIN REMOVAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"roof-cleaning.html\">ROOF CLEANING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"apartment_pressure_washing.html\">APARTMENT PRESSURE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">VACUUM RECLAIM PRESSURE WASHING</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about_us.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>SCHEDULE ONLINE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3065,7 +3065,7 @@
           },
           "text1": "BUSINESS HOURS<br>Mon - Sat: &nbsp;8:00 am - 5:00 pm\n<br>Sunday: Closed<br>",
           "text2": "CONTACTS<br>Phone: <a href=\"tel:(251) 508-6018\" class=\"text-primary\">(251) 508-6018&nbsp;</a><br>",
-          "text3": "LINKS<br>\n<a class=\"text-primary\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\">SCHEDULE ONLINE</a><br>",
+          "text3": "<p>LINKS<br>\n<a class=\"text-primary\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\">SCHEDULE ONLINE</a><br></p><p><a class=\"text-primary\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\"><br></a><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -3077,6 +3077,283 @@
             }
           },
           "_anchor": "contacts1-2v"
+        }
+      ]
+    },
+    "apartment_pressure_washing.html": {
+      "settings": {
+        "meta_descr": "Roof Cleaning and Stain Removal, Pool Deck Pressure Washing, Sidewalk Cleaning, Dumpster/Compactor Pad Cleaning, Exterior Window Washing\nBreezeway Cleaning (Walls, Floors, Stairs)\nExterior Building Cleaning",
+        "title": "Roush Commercial Power Washing: Apartment Pressure Washing",
+        "order": 6
+      },
+      "components": [
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2020 ROUSH COMMERCIAL POWER WASHING.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-32"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": "1.1",
+            "fontName": {},
+            "fontColor": "#282828",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"roof-cleaning.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"residential_power_washing.html\">RESIDENTIAL HOUSE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"commercial_power_washing.html\">COMMERCIAL PRESSURE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"concrete_cleaning.html\">CONCRETE CLEANING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"stains_removal.html\">STAIN REMOVAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"roof-cleaning.html\">ROOF CLEANING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"apartment_pressure_washing.html\">APARTMENT PRESSURE WASHING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">VACUUM RECLAIM PRESSURE WASHING</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about_us.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>SCHEDULE ONLINE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#282828"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#282828"
+            },
+            ".link, .dropdown-item": {
+              "color": "#282828"
+            },
+            ".link": {
+              "font-size": "1.1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.191rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#282828",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "A": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".btn SPAN": {
+              "font-size": "30px"
+            },
+            ".btn": {
+              "font-size": "20px"
+            }
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/untitled-52-212x128.png",
+              "height": 128,
+              "alt": "Roush Commercial Power Washing",
+              "link": "index.html",
+              "title": "Roush Commercial Power Washing",
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "hand-washing",
+              "family": "icon54-v2",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RCPW</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-33"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            },
+            ".lead P": {
+              "font-size": "20px"
+            },
+            ".lead": {
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "5",
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/pool-b-1170x550.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.2"
+          },
+          "title": "APARTMENT PRESSURE WASHING",
+          "text": "Our experience with Residentail Homes has led us to Multifamily Complexes for the entire Southeastern United States",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-34"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<ul><li>Roof Cleaning and Stain Removal\r</li><li>Pool Deck Pressure Washing\r</li><li>Sidewalk Cleaning\r</li><li>Dumpster/Compactor Pad Cleaning</li></ul>",
+          "text2": "<ul><li>Exterior Window Washing\n</li><li>Breezeway Cleaning (Walls, Floors, Stairs)\n</li><li>Exterior Building Cleaning\n</li><li>And More...</li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-39",
+          "_styles": {
+            ".lead UL": {
+              "font-size": "20px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<h2>Building Exterior Cleaning\n</h2><div>Our soft wash process allows us to clean 3 story buildings from the ground! This is very beneficial to the property because of the minimal impact made. We can leave the building exteriors sparkling clean WITHOUT the inconvenience of noisy man lifts, dangerous ladders and unsightly scaffolding. Our exclusive low pressure cleaning process is also much safer than traditional high pressure cleaning.&nbsp;</div><div>\n</div><div><br></div><h2>Breezway Cleaning</h2><div>The methods, chemicals and attachments are purpose built for the professional cleaning contractor. We begin by spot-treating heavily soiled areas with eco friendly detergents, followed by a mild detergent application to all concrete surfaces. This helps to break down any contaminants and stains even further.</div><div><br></div><div>\n</div><div>\n</div><div>Next, we use rotary surface cleaners to pressure wash all of the flat concrete surfaces of the breezeway. The water being used is heated to around 180 degrees, which removes up to 50% more staining than pressure washing with cold water. Depending on the application, breezeway walls and ceilings are cleaned using the same low pressure cleaning method as we would use on the exterior of the buildings. Precautions are taken to reduce the chances of water intrusion under doors and around fire alarm components. Proper signage is always placed at the entrances to breezeways so that residents are aware of the project at hand.</div><div>\n</div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "20px"
+            },
+            "DIV": {
+              "font-size": "20px"
+            },
+            "H1": {
+              "font-size": "48px"
+            }
+          },
+          "_anchor": "content1-35"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "<p>FREE ESTIMATES</p>",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-37"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/untitled-52-128x77.png",
+              "width": 128,
+              "active": true,
+              "link": "index.html",
+              "alt": "Roush Commercial Power Washing",
+              "title": "Roush Commercial Power Washing"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "BUSINESS HOURS<br>Mon - Sat: &nbsp;8:00 am - 5:00 pm\n<br>Sunday: Closed<br>",
+          "text2": "CONTACTS<br>Phone: <a href=\"tel:(251) 508-6018\" class=\"text-primary\">(251) 508-6018&nbsp;</a><br>",
+          "text3": "<p>LINKS<br>\n<a class=\"text-primary\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\">SCHEDULE ONLINE</a><br></p><p><a class=\"text-primary\" href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\"><br></a><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-size": "18px",
+              "color": "#282828"
+            }
+          },
+          "_anchor": "contacts1-38"
         }
       ]
     }
