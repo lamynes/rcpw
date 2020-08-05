@@ -1503,6 +1503,7 @@ section.form .container {
   color: #282828;
 }
 
+
 #ext_menu-33 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1583,7 +1584,8 @@ section.form .container {
 #msg-box8-34 .lead {
   font-size: 20px;
 }
-#content6-39 .lead UL {
+#content7-3a .lead UL {
+  font-family: 'Oswald', sans-serif;
   font-size: 20px;
 }
 #content1-35 P {

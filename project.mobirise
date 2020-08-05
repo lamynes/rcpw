@@ -28,7 +28,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.11.4",
     "siteFonts": [],
-    "uniqCompNum": 118,
+    "uniqCompNum": 119,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -911,7 +911,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<h2>Our Method Of Roof Cleaning Is Superior In Many Ways.</h2><p>We make the exterior of your house or commercial property look like new plus add life to your roof. If you are looking for high-quality, reliable, and personal service, you’ve found the right company.</p><p><br></p><p>\n</p><p>This is a method where we rely on the use of specialty cleaning chemicals and very low pressure to safely and effectively clean your roof.&nbsp;</p><p><br></p><p>\n</p><p>Our experience and equipment allows us to use just the right amount of detergents, reducing the overall chemical usage for the job.  This method is safer for the environment and your landscaping.  By carefully saturating all adjacent vegetation before, during and after the cleaning process, any chemical run off is diluted to safe levels.  We typically cover any shrubs, ornamental trees, roses or other delicate plants with plastic sheeting to ensure they are not affected by our process.</p><p><br></p><h2>The “Dark-Streaks” On Your Roof Are Actually Algae, Mold And Fungus Colonies That Have Grown And Spread Downward.\n</h2><p><br></p><p>The main bacteria causing these “black-streaks” on roofs is called Gloeocapsa Magma, this bacteria as well as other bacteria, algae, molds, fungus and lichen are one of the main causes of roofing material breakdown and decomposition. The lichen has a filament root system that will grow down into an asphalt shingle to feed and ultimately pull the aggregate granule layer off exposing the asphalt layer therefore starting a rapid deterioration.</p>",
+          "text": "<h2>Our Method Of Roof Cleaning.</h2><p>We make the exterior of your house or commercial property look like new plus add life to your roof. If you are looking for high-quality, reliable, and personal service, you’ve found the right company.</p><p><br></p><p>\n</p><p>This is a method where we rely on the use of specialty cleaning chemicals and very low pressure to safely and effectively clean your roof.&nbsp;</p><p><br></p><p>\n</p><p>Our experience and equipment allows us to use just the right amount of detergents, reducing the overall chemical usage for the job.  This method is safer for the environment and your landscaping.  By carefully saturating all adjacent vegetation before, during and after the cleaning process, any chemical run off is diluted to safe levels.  We typically cover any shrubs, ornamental trees, roses or other delicate plants with plastic sheeting to ensure they are not affected by our process.</p><p><br></p><h2>The “Dark-Streaks” On Your Roof Are Actually Algae, Mold And Fungus Colonies.</h2><p>The main bacteria causing these “black-streaks” on roofs is called Gloeocapsa Magma, this bacteria as well as other bacteria, algae, molds, fungus and lichen are one of the main causes of roofing material breakdown and decomposition. The lichen has a filament root system that will grow down into an asphalt shingle to feed and ultimately pull the aggregate granule layer off exposing the asphalt layer therefore starting a rapid deterioration.</p>",
           "_tags": [
             "Theme"
           ],
@@ -1823,10 +1823,10 @@
           },
           "_params": {
             "showTitle": false,
-            "showText": true,
+            "showText": false,
             "showButton": false,
-            "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingTop": "5",
+            "paddingBottom": "5",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/116706539-10163942212840072-761590412986484619-n-1920x1440.jpg",
             "parallax": true,
@@ -1838,7 +1838,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.3"
+            "overlayOpacity": "0"
           },
           "title": "Do You Own Or Manage A Commercial Property In Need Of Deep Cleaning?\r<div>If you aren’t 100% satisfied with the current state of your restaurant, retail store or other commercial property, consider how Pro Wash, LLC can help you improve your company’s image. By offering top-quality commercial pressure washing in Nashville and Middle Tennessee, Pro Wash, LLC delivers safe, convenient solutions to help your business make the right impression and avoid safety hazards.</div>",
           "text": "<p>Do You Own Or Manage A Commercial Property In Need Of Deep Cleaning?\n</p><p>If you aren’t 100% satisfied with the current state of your restaurant, retail store or other commercial property, consider how Roush Commercial Pressure Washing can help you improve your company’s image. By offering top-quality commercial pressure washing in the Southeasrtern United States, Roush Commercial Pressure Washing delivers safe, convenient solutions to help your business make the right impression and avoid safety hazards.</p>",
@@ -2086,7 +2086,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<h2>For The Discerning Homeowner</h2><div>Have you noticed green or black mildew on your home’s siding? What about those awful, black streaks on your gutters? Is your vinyl siding chalky or dirty?\n</div><div>\n</div><div>How are we different from other companies offering pressure washing in Nashville? By selecting Roush Commercial Power Washing for your house washing needs, you can be confident that our safe, guarantee-backed cleaning methods will restore your home to its former beauty without the risk of damaging your house or landscaping.\n</div><div>\n</div><div><br></div><h2>Clean Your Home The Safe Way</h2><div>Did you know that most pressure washing companies in our area clean their customers’ homes at pressure levels much higher than is required? At Roush Commercial Power Washing, we know that it does not take 4000 psi to remove dirt and mildew from houses. In fact, such high-pressure streams of water can cause SEVERE damage to your home. We understand that almost any surface can be properly cleaned with little more than garden hose pressure.</div><div><br></div><div>The key to low pressure house washing is using the safest, most appropriate chemicals. Our house washing detergents are applied to the home with a low pressure nozzle and allowed to dwell for 5-15 minutes. During this time the bleach that is in the mixture turns any green or black mold to a light brown color.  Other debris like spider webs, dust, small insects and bird droppings are suspended in the foamy mixture.  Then we thoroughly rinse the home with low pressure clean water which removes all of the dust and debris as well as the dead organic material.</div><div><br></div><div>Our standard house washing solution consists of water, 12.5% Sodium Hypochlorite, and various other additives. Sodium Hypochlorite is the active ingredient in household bleach, although household bleach contains about 6% and the industrial version we use contains about 12%. Bleach is a very safe and eco-friendly chemical when used properly. We use the absolute minimum amount of chemicals possible, while still being able to provide a superior end product.</div><div><br></div><div>\n</div><div>\n</div><div>When our solution is injected into the water stream, it becomes diluted with water to around a 10:1 ratio.  Some of the other various additives that would be added into our house washing detergent would be foaming agents, surfactants, rinse aids, penetrators, and mold inhibitors.  Our house washing solutions are blended on site according to the type of debris found on your home, not mixed in huge batches like most cleaning contractors will do. One size does not fit all when it comes to house washing detergents.</div>",
+          "text": "<h2>For The Homeowner</h2><div>Have you noticed green or black mildew on your home’s siding? What about those awful, black streaks on your gutters? Is your vinyl siding chalky or dirty?\n</div><div>\n</div><div>By selecting Roush Commercial Power Washing for your house washing needs, you can be confident that our safe, guarantee-backed cleaning methods will restore your home to its former beauty without the risk of damaging your house or landscaping.\n</div><div>\n</div><div><br></div><h2>Clean Your Home The Safe Way</h2><div>Did you know that most pressure washing companies in our area clean their customers’ homes at pressure levels much higher than is required? At Roush Commercial Power Washing, we know that it does not take 4000 psi to remove dirt and mildew from houses. In fact, such high-pressure streams of water can cause SEVERE damage to your home. We understand that almost any surface can be properly cleaned with little more than garden hose pressure.</div><div><br></div><div>The key to low pressure house washing is using the safest, most appropriate chemicals. Our house washing detergents are applied to the home with a low pressure nozzle and allowed to dwell for 5-15 minutes. During this time the bleach that is in the mixture turns any green or black mold to a light brown color.  Other debris like spider webs, dust, small insects and bird droppings are suspended in the foamy mixture.  Then we thoroughly rinse the home with low pressure clean water which removes all of the dust and debris as well as the dead organic material.</div><div><br></div><div>Our standard house washing solution consists of water, 12.5% Sodium Hypochlorite, and various other additives. Sodium Hypochlorite is the active ingredient in household bleach, although household bleach contains about 6% and the industrial version we use contains about 12%. Bleach is a very safe and eco-friendly chemical when used properly. We use the absolute minimum amount of chemicals possible, while still being able to provide a superior end product.</div><div><br></div><div>\n</div><div>\n</div><div>When our solution is injected into the water stream, it becomes diluted with water to around a 10:1 ratio.  Some of the other various additives that would be added into our house washing detergent would be foaming agents, surfactants, rinse aids, penetrators, and mold inhibitors.  Our house washing solutions are blended on site according to the type of debris found on your home, not mixed in huge batches like most cleaning contractors will do. One size does not fit all when it comes to house washing detergents.</div>",
           "_tags": [
             "Theme"
           ],
@@ -2489,7 +2489,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<h2>Roush Commercial Power Washing Utilizes State Of The Art Equipment To Deep Clean Concrete And Exposed Aggregate Surfaces.\n</h2><div>Our concrete cleaning process yields superior results time after time.  We use rotary surface cleaners instead of wands so that concrete is cleaned in a uniform, consistent pattern. Our high flow/high pressure machines, paired with 28″ surface cleaners allow us to clean very large areas quickly and thoroughly.  Our hot water pressure washing techniques can remove up to 50% more stains than pressure washing with standard cold water machines. When needed, our trained technicians use vacuum surface cleaners to instantly reclaim dirty wash water when cleaning concrete. This Wash Water Recovery process allows us to pressure wash concrete in interior settings such as warehouses, restaurants, manufacturing plants and automotive shops, without the risk of water intrusion to nearby equipment and sensitive areas.</div><div><br></div><h2>ATTENTION TO DETAIL\n</h2><div>One of the most important parts of cleaning flat surfaces like driveways, parking lots, sidewalks, and patios is what we call the “CUT IN”. The “CUT IN” is anywhere that our surface cleaners cannot reach. Corners, under railings, against walls, under benches, and around columns. These are the little details people notice.  At Roush Commercial Power Washing, attention to detail, with concrete cleaning, is what sets us apart.</div><div><br></div><div>\n</div><div>\n</div><div>Pressure washing concrete with ultra high temperature water allows us to remove stains that can not be removed with cold water alone. Our hot water pressure washers can melt away chewing gum and cut through oil, grease and other hard to remove stains. Hot water, along with the proper cleaning agents can drastically improve the look and traction of any concrete surface.</div>",
+          "text": "<h2>Roush Commercial Power Washing Utilizes State Of The Art Equipment To Deep Clean Concrete And Exposed Aggregate Surfaces.\n</h2><div>Our concrete cleaning process yields superior results time after time.  We use rotary surface cleaners instead of wands so that concrete is cleaned in a uniform, consistent pattern. Our high flow/high pressure machines, paired with 28″ surface cleaners allow us to clean very large areas quickly and thoroughly.  Our hot water pressure washing techniques can remove up to 50% more stains than pressure washing with standard cold water machines.&nbsp;</div><div><br></div><h2>ATTENTION TO DETAIL\n</h2><div>One of the most important parts of cleaning flat surfaces like driveways, parking lots, sidewalks, and patios is what we call the “CUT IN”. The “CUT IN” is anywhere that our surface cleaners cannot reach. Corners, under railings, against walls, under benches, and around columns. These are the little details people notice.  At Roush Commercial Power Washing, attention to detail, with concrete cleaning, is what sets us apart.</div><div><br></div><div>\n</div><div>\n</div><div>Pressure washing concrete with ultra high temperature water allows us to remove stains that can not be removed with cold water alone. Our hot water pressure washers can melt away chewing gum and cut through oil, grease and other hard to remove stains. Hot water, along with the proper cleaning agents can drastically improve the look and traction of any concrete surface.</div>",
           "_tags": [
             "Theme"
           ],
@@ -3249,21 +3249,24 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "text1": "<ul><li>Roof Cleaning and Stain Removal\r</li><li>Pool Deck Pressure Washing\r</li><li>Sidewalk Cleaning\r</li><li>Dumpster/Compactor Pad Cleaning</li></ul>",
-          "text2": "<ul><li>Exterior Window Washing\n</li><li>Breezeway Cleaning (Walls, Floors, Stairs)\n</li><li>Exterior Building Cleaning\n</li><li>And More...</li></ul>",
+          "text1": "<ul><li>Roof Cleaning and Stain Removal\n</li><li>Pool Deck Pressure Washing</li><li>Sidewalk Cleaning</li></ul>",
+          "text2": "<ul><li>Dumpster/Compactor Pad Cleaning<br></li><li>Exterior Window Washing</li></ul>",
+          "text3": "<ul><li>Breezeway Cleaning (Walls, Floors, Stairs)\r</li><li>Exterior Building Cleaning</li></ul>",
           "_tags": [
             "Theme"
           ],
-          "_name": "content6",
-          "_anchor": "content6-39",
+          "_name": "content7",
           "_styles": {
             ".lead UL": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-size": "20px"
             }
-          }
+          },
+          "_anchor": "content7-3a"
         },
         {
           "_params": {
