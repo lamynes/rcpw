@@ -1608,3 +1608,104 @@ section.form .container {
   font-size: 18px;
   color: #282828;
 }
+
+#ext_menu-3c .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-3c .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-3c .navbar-toggler {
+  color: #282828;
+}
+#ext_menu-3c .close-icon::before,
+#ext_menu-3c .close-icon::after {
+  background-color: #282828;
+}
+#ext_menu-3c .link,
+#ext_menu-3c .dropdown-item {
+  color: #282828;
+}
+#ext_menu-3c .link {
+  font-size: 1.1rem;
+}
+#ext_menu-3c .dropdown-item,
+#ext_menu-3c .nav-dropdown-sm .link {
+  font-size: 1.191rem;
+}
+#ext_menu-3c .link:hover,
+#ext_menu-3c .dropdown-item:hover,
+#ext_menu-3c .link:focus,
+#ext_menu-3c .dropdown-item:focus {
+  color: #c0a375;
+}
+#ext_menu-3c .link[aria-expanded="true"],
+#ext_menu-3c .dropdown-menu {
+  background: #e6e6e6;
+}
+#ext_menu-3c .nav-dropdown-sm .link:focus,
+#ext_menu-3c .nav-dropdown-sm .link:hover,
+#ext_menu-3c .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-3c .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#ext_menu-3c .navbar,
+#ext_menu-3c .nav-dropdown-sm,
+#ext_menu-3c .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-3c .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#ext_menu-3c .bg-color.transparent .link {
+  color: #282828;
+  transition: none;
+}
+#ext_menu-3c .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-3c .bg-color.transparent.opened .link:hover,
+#ext_menu-3c .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#ext_menu-3c .link[aria-expanded="true"],
+#ext_menu-3c .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#ext_menu-3c A {
+  font-family: 'Oswald', sans-serif;
+}
+#ext_menu-3c .btn SPAN {
+  font-size: 30px;
+}
+#ext_menu-3c .btn {
+  font-size: 20px;
+}
+#msg-box8-3d .mbr-section-title,
+#msg-box8-3d .lead {
+  color: #fff;
+}
+#msg-box8-3d .lead P {
+  font-size: 20px;
+}
+#msg-box8-3d .lead {
+  font-size: 20px;
+}
+#content1-3f P {
+  font-size: 20px;
+}
+#content1-3f DIV {
+  font-size: 20px;
+}
+#content1-3f H1 {
+  font-size: 48px;
+}
+#header3-3g .mbr-section-title,
+#header3-3g .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3g .mbr-section-title {
+  font-size: 36px;
+}
+#contacts1-3h P {
+  font-size: 18px;
+  color: #282828;
+}
